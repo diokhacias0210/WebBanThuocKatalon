@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_10 Bỏ chọn 1 sản phẩm lẻ trong giỏ hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>d61fd168-9b17-4cd9-a758-1474a3577865</testCaseGuid>
-</TestCaseEntity>

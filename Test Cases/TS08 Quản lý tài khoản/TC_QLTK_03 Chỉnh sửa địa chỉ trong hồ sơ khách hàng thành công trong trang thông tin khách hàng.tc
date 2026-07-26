@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_03 Chỉnh sửa địa chỉ trong hồ sơ khách hàng thành công trong trang thông tin khách hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0bce3eb8-3206-4c2d-a774-aa79ed81078f</testCaseGuid>
+</TestCaseEntity>

@@ -23,25 +23,25 @@ WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/input_Nhp s in thoi'), '0902345678')
+WebUI.click(findTestObject('TC_QLXTTK_02/Page_PharmaCare/a_ng k ngay'))
 
-WebUI.setEncryptedText(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+WebUI.setText(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_Nguyn Vn A'), 'levanc')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/button_ng nhp'))
+WebUI.click(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_examplegmail.com'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
+WebUI.setText(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_Nguyn Vn A'), 'Phạm Thị D')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Nh thuc trc tuyn/a_n hng ca ti'))
+WebUI.setText(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_examplegmail.com'), 'phamthid@gmail.com')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/button_Hy n'))
+WebUI.setText(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_09xx xxx xxx'), '0904567890')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/span_Tm thy gi tt hn  nh thuc khc'))
+WebUI.setEncryptedText(findTestObject('TC_QLXTTK_02/Page_PharmaCare/input_Ti thiu 6 k t'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/button_Xc nhn hu'))
+WebUI.click(findTestObject('TC_QLXTTK_02/Page_PharmaCare/button_To ti khon'))
 
-WebUI.rightClick(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/div_Tt c (8)'))
+WebUI.rightClick(findTestObject('TC_QLXTTK_02/Page_PharmaCare/label_S in thoi'))
 
-WebUI.assertElementPresent(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/div_Tt c (8)'), 0)
+WebUI.assertElementPresent(findTestObject('TC_QLXTTK_02/Page_PharmaCare/label_S in thoi'), 0)
 
 WebUI.closeBrowser()
 

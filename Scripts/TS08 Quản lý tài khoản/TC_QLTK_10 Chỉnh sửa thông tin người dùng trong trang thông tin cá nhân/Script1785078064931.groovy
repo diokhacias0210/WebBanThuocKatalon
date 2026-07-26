@@ -23,25 +23,33 @@ WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/input_Nhp s in thoi'), '0902345678')
+WebUI.setText(findTestObject('TC_QLTK_10/Page_PharmaCare/input_Nhp s in thoi'), '0902345678')
 
-WebUI.setEncryptedText(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare/input_Nhp s in thoi'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare/button_ng nhp'))
+WebUI.setEncryptedText(findTestObject('TC_QLTK_10/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare/button_ng nhp'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Nh thuc trc tuyn/a_n hng ca ti'))
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/button_Hy n'))
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Nh thuc trc tuyn/a_Thng tin c nhn'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/span_Tm thy gi tt hn  nh thuc khc'))
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/button_btnEdit'))
 
-WebUI.click(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/button_Xc nhn hu'))
+WebUI.setText(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/input_Email chnh'), 'tranthib')
 
-WebUI.rightClick(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/div_Tt c (8)'))
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/button_btnSave'))
 
-WebUI.assertElementPresent(findTestObject('TC_QLTTVDH_01/Page_PharmaCare  Qun l n hng/div_Tt c (8)'), 0)
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/input_Email chnh'))
+
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/div_TB'))
+
+WebUI.click(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/button_btnSave'))
+
+WebUI.rightClick(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/div_TB'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTK_10/Page_PharmaCare  Thng tin c nhn/div_TB'), 0)
 
 WebUI.closeBrowser()
 

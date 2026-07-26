@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_14 Xóa thành công 1 sản phẩm khỏi giỏ hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b4140bbd-f430-4157-85cf-7fbd69c8cc8a</testCaseGuid>
-</TestCaseEntity>
