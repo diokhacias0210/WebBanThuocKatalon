@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_S nh, tn ng, phng, qun, tnh thn</name>
+   <tag></tag>
+   <elementGuidId>ef334965-8ce5-437b-9d50-121d42484cc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mDetail</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'mDetail']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Số nhà, tên đường, phường, quận, tỉnh thành...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>5a6776c3-7293-4e55-8ba3-68a109dda6eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>4e14ec41-816e-496e-9dc6-9f8f6c13718e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mDetail</value>
+      <webElementGuid>9630b5cc-a6c4-4963-91f9-17bf94c87dd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Số nhà, tên đường, phường, quận, tỉnh thành...</value>
+      <webElementGuid>88580bc9-d34d-4ee1-af2f-d3116e1fb176</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-6f1b3014c866ab7bb326cdcca61c3609</value>
+      <webElementGuid>a4669b89-b184-4988-aa6a-e1d27dc191b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'mDetail']</value>
+      <webElementGuid>7994ce17-1bb2-4837-a010-0e08ef913fe2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'mDetail']</value>
+      <webElementGuid>9376b857-e81a-42a1-bb5f-1e55414dc060</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'mDetail' and @placeholder = 'Số nhà, tên đường, phường, quận, tỉnh thành...']</value>
+      <webElementGuid>98489d95-d6ed-4fb5-a9eb-50ae1df10635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

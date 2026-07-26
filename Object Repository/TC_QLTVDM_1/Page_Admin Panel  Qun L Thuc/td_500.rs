@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_500</name>
+   <tag></tag>
+   <elementGuidId>ab20a72e-c817-496d-81f6-864786bc292f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) td.cell-strong:nth-child(5)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 5)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;30.000đ&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>ddb9128d-a08d-4c14-adc2-24b00bd29926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell-strong</value>
+      <webElementGuid>fef13db2-e6dc-486b-bbb2-e80ecea0a147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>30.000đ</value>
+      <webElementGuid>4f0d4083-2714-460f-bddb-e1d00eb1fd0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-caf2d038ac3e7fb5fa1fab850dae3b7a</value>
+      <webElementGuid>a10600ad-6c26-4ecd-ac4e-1f8ef3179f45</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 5)]</value>
+      <webElementGuid>f585562c-85f8-4f2d-92bc-7d5f7f414496</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 5)]</value>
+      <webElementGuid>17a171e6-41a6-47f3-a244-7fcdc16de388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = '30.000đ' or . = '30.000đ')]</value>
+      <webElementGuid>ba1d1ed5-99aa-4162-ab4e-c9f74b11094b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

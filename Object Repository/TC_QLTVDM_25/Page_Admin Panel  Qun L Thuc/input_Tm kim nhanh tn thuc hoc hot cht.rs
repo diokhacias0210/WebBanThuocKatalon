@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tm kim nhanh tn thuc hoc hot cht</name>
+   <tag></tag>
+   <elementGuidId>5c6df442-82bf-4176-b32e-49138d3836f8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'searchInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tìm kiếm nhanh tên thuốc hoặc hoạt chất...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>2b428f6a-611f-47d6-ad50-d7f709008f70</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>6e883ce9-dac3-4125-9cae-a2ab53b3fd59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchInput</value>
+      <webElementGuid>e3344c3c-50dc-419d-9799-c8f44d3b5328</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tìm kiếm nhanh tên thuốc hoặc hoạt chất...</value>
+      <webElementGuid>c3ae06c7-0032-453b-9692-cd96a4a3e020</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bd4a98b3f75835b4712b4d0cd672ccd8</value>
+      <webElementGuid>2e264691-567a-4bac-bf7c-d80e15345725</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'searchInput']</value>
+      <webElementGuid>aad48a5e-81ed-41d4-9210-d27ab442685a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'searchInput']</value>
+      <webElementGuid>0d5cbb9e-c76f-4453-93f0-c66f74351c8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'searchInput' and @placeholder = 'Tìm kiếm nhanh tên thuốc hoặc hoạt chất...']</value>
+      <webElementGuid>9d895096-203b-43d3-9c9e-74c4ba7dec42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

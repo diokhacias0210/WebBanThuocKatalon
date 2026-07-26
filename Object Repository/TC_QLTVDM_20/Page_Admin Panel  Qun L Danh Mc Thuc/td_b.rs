@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_b</name>
+   <tag></tag>
+   <elementGuidId>66b580da-3f58-40cf-8c88-4b84f88319b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-child(1) .desc-cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' desc-cell ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;bí&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>2c26b9f2-3ec0-4367-84c9-fc10a29e862e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>desc-cell</value>
+      <webElementGuid>79fc765a-ad64-49bf-b4f5-25c487ded54b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bí</value>
+      <webElementGuid>39f8d8ba-1d8d-4104-8b57-a5b1f6c60f4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b09966c8efb99d4e0380ad27939d57bb</value>
+      <webElementGuid>d4ceb990-7c87-4400-8daa-05a4293284c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' desc-cell ')]</value>
+      <webElementGuid>c095b1ab-78cc-4054-8a4f-f8dea4ae456f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' desc-cell ')]</value>
+      <webElementGuid>f7760550-d13a-49b7-a17d-5ec5c57caaf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'bí' or . = 'bí')]</value>
+      <webElementGuid>9eca4e71-3c29-49aa-9b8a-fcf0e2da01fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

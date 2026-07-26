@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_27Xóa rỗng từ khóa tìm kiếm để hiển thị lại toàn bộ sản phẩm trong Trang Danh sách hàng hóa</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>837658b7-311c-4237-9725-d8d1493fbbce</testCaseGuid>
-</TestCaseEntity>

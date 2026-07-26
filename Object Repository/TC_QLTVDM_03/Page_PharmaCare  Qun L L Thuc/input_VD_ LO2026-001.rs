@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VD_ LO2026-001</name>
+   <tag></tag>
+   <elementGuidId>191c2c26-33b3-4896-a6a2-66aa3e2b4e50</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#f_maLo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'f_maLo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;VD: LO2026-001&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>cf2a685b-0c38-4c56-9164-f8341c6915b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>96545033-0ff3-42e4-91c8-992a6652aa6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>f_maLo</value>
+      <webElementGuid>265de92c-ab90-4a7e-a4e8-33a94cd37481</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>maLo</value>
+      <webElementGuid>0c203811-a4ef-4cc0-af32-25b9410a91c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>VD: LO2026-001</value>
+      <webElementGuid>081170cb-1ff4-4c7e-be87-95234a27612d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e7562b41c1e3342f39b4e366a339f7b9</value>
+      <webElementGuid>116251e6-85a4-4e7d-a84e-4b792e3b3ab1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_maLo']</value>
+      <webElementGuid>a67f906c-44f5-488e-bd42-cf6f30f82c6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_maLo']</value>
+      <webElementGuid>fd363eb7-35e0-4af9-af49-e47852190349</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'f_maLo' and @name = 'maLo' and @placeholder = 'VD: LO2026-001']</value>
+      <webElementGuid>c9c52e62-748c-479f-9bb4-64ecf38b5ebe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

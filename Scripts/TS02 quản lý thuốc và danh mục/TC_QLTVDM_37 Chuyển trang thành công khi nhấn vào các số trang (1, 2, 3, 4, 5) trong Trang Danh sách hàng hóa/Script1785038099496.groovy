@@ -17,3 +17,22 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('TC_QLTVDM_37/Page_PharmaCare  Nh thuc trc tuyn/a_Xem tt c'))
+
+WebUI.click(findTestObject('TC_QLTVDM_37/Page_Danh sch sn phm thuc  PharmaCare/button_2'))
+
+WebUI.click(findTestObject('TC_QLTVDM_37/Page_Danh sch sn phm thuc  PharmaCare/button_3'))
+
+WebUI.rightClick(findTestObject('TC_QLTVDM_37/Page_Danh sch sn phm thuc  PharmaCare/img_Vin nn Mebendazole 500mg Mekophar'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTVDM_37/Page_Danh sch sn phm thuc  PharmaCare/img_Vin nn Mebendazole 500mg Mekophar'), 
+    0)
+
+WebUI.closeBrowser()
+

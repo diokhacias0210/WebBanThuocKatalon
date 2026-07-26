@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VD_ Nh ring, C quan, Nh ni, Kho hng</name>
+   <tag></tag>
+   <elementGuidId>2966dc8d-dc14-4256-9bca-027b2d655046</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#mLabel</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'mLabel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;VD: Nhà riêng, Cơ quan, Nhà nội, Kho hàng...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>252a4d5c-a958-4d97-ac8b-d10bcff953fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>b26e6818-fdd6-4bd0-b371-325687a71a9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>mLabel</value>
+      <webElementGuid>693bf4d1-f735-4579-918e-b62025dc39d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>VD: Nhà riêng, Cơ quan, Nhà nội, Kho hàng...</value>
+      <webElementGuid>bda95e6d-d8c1-4b54-8d85-991c8ccfa2e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-dce029f4d73ced863ab8fbbf08331ab0</value>
+      <webElementGuid>66318faa-308c-476c-9057-527f123f6103</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'mLabel']</value>
+      <webElementGuid>12434b13-cd87-46c0-aba1-b8ccbe5ec046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'mLabel']</value>
+      <webElementGuid>e2cab1b6-5157-433f-a619-25e1506a455a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'mLabel' and @placeholder = 'VD: Nhà riêng, Cơ quan, Nhà nội, Kho hàng...']</value>
+      <webElementGuid>a5164d16-65ce-41a2-af9e-4de244da3e0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

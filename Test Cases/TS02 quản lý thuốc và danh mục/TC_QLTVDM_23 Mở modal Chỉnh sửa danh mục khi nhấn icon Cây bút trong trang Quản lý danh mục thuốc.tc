@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_23 Mở modal Chỉnh sửa danh mục khi nhấn icon Cây bút trong trang Quản lý danh mục thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>31e33fc9-b24c-4a81-9ec3-91564571e2e3</testCaseGuid>
-</TestCaseEntity>

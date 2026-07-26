@@ -17,3 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_PharmaCare  Nh thuc trc tuyn/a_ng nhp'))
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_PharmaCare/input_Nhp s in thoi'))
+
+WebUI.doubleClick(findTestObject('TC_QLTVDM_13/Page_PharmaCare/input_Nhp s in thoi'))
+
+WebUI.setText(findTestObject('TC_QLTVDM_13/Page_PharmaCare/input_Nhp s in thoi'), '0999888777')
+
+WebUI.setEncryptedText(findTestObject('TC_QLTVDM_13/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_Admin Panel  Qun L Ti Khon/a_Qun l thuc'))
+
+WebUI.click(findTestObject('TC_QLTVDM_13/Page_Admin Panel  Qun L Thuc/button_Chi tit'))
+
+WebUI.rightClick(findTestObject('TC_QLTVDM_13/Page_Admin Panel  Chi Tit Thuc/div_Trng thiang bn'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTVDM_13/Page_Admin Panel  Chi Tit Thuc/div_Trng thiang bn'), 0)
+
+WebUI.closeBrowser()
+
