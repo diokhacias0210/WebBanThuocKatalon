@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>img_Vin si Tovalgan Ef Trng Th Pharma</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>a49a8ef0-e94a-48b7-997a-7037a5d6b3fa</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>[alt=&quot;Viên\ sủi\ Tovalgan\ Ef\ Trường\ Thọ\ Pharma&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@alt = 'Viên sủi Tovalgan Ef Trường Thọ Pharma']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>internal:role=img[name=&quot;Viên sủi Tovalgan Ef Trường Thọ Pharma&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,63 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>9bdb1323-4974-44c7-9723-69496cb85ca1</webElementGuid>
+      <value>img</value>
+      <webElementGuid>978065e1-176e-484c-8f91-af0bb8a19b04</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>src</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3b5f87e5-d5ad-43c3-a27a-dc01889ae756</webElementGuid>
+      <value>http://localhost/BanThuoc/public/assets/images/uploads/48/48-1.jpg</value>
+      <webElementGuid>4aad4426-03a6-4551-b30b-8268eea22a93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>alt</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>df216cf5-e3d6-4c9c-99c5-2cdce4bfe72a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>274f71e6-8c64-45ad-a2b9-9e8fbc4bbf30</webElementGuid>
+      <value>Viên sủi Tovalgan Ef Trường Thọ Pharma</value>
+      <webElementGuid>c7b6ce27-65d8-4d6f-bb03-69c89d38c213</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>ce50867e-0113-47c3-8922-5d88941a518f</webElementGuid>
+      <value>md5.v1-bc82e409316264bccac5e4ed513bd5b4</value>
+      <webElementGuid>4a07d290-55a8-46de-a452-83ccff5d54ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>16f97f95-ad1a-46be-8d8e-5dec27c4977c</webElementGuid>
+      <value>//*[@alt = 'Viên sủi Tovalgan Ef Trường Thọ Pharma']</value>
+      <webElementGuid>de4036bf-39e6-4c64-99a3-a10a53db5865</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b085a258-bd0f-4f3d-8da9-a476c14ecfa1</webElementGuid>
+      <value>//*[@alt = 'Viên sủi Tovalgan Ef Trường Thọ Pharma']</value>
+      <webElementGuid>f512570f-063f-4f56-b17a-ec0eea4558fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>89a99a18-29a8-43fe-8dc9-9e918f056a45</webElementGuid>
+      <value>//img[@src = 'http://localhost/BanThuoc/public/assets/images/uploads/48/48-1.jpg' and @alt = 'Viên sủi Tovalgan Ef Trường Thọ Pharma']</value>
+      <webElementGuid>7cf887ec-4010-4613-81f3-e6367baa905d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

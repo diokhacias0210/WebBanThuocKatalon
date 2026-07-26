@@ -17,3 +17,24 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/trangChu')
+
+WebUI.click(findTestObject('Page_PharmaCare  Nh thuc trc tuyn/div_Trang ch'))
+
+WebUI.click(findTestObject('Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
+
+WebUI.click(findTestObject('Page_PharmaCare  Nh thuc trc tuyn/a_ng nhp'))
+
+WebUI.setText(findTestObject('Page_PharmaCare/input_Nhp s in thoi'), '0913@20982')
+
+WebUI.setEncryptedText(findTestObject('Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Page_PharmaCare/button_ng nhp'))
+
+// Nếu thông báo lỗi xuất hiện → Test Case FAIL
+WebUI.verifyElementNotPresent(findTestObject('Page_PharmaCare/div_S in thoi hoc mt khu khng chnh xc'), 5, FailureHandling.STOP_ON_FAILURE)
+
+WebUI.closeBrowser()
+

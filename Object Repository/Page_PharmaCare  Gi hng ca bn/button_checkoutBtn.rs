@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>button_checkoutBtn</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>7acac419-2609-41a6-b303-8f2d5382d006</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>#checkoutBtn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@id = 'checkoutBtn']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>internal:role=button[name=&quot;Mua hàng&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,63 +28,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>9bdb1323-4974-44c7-9723-69496cb85ca1</webElementGuid>
+      <value>button</value>
+      <webElementGuid>054ab2d9-385c-4ad2-8d7f-cd05a01da3c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3b5f87e5-d5ad-43c3-a27a-dc01889ae756</webElementGuid>
+      <value>button</value>
+      <webElementGuid>e4a9ee4b-06e4-467e-9027-5c1dbbd26512</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkout-btn</value>
+      <webElementGuid>b0e1845f-8082-4df2-93f4-bb8f6ee76756</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>id</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>df216cf5-e3d6-4c9c-99c5-2cdce4bfe72a</webElementGuid>
+      <value>checkoutBtn</value>
+      <webElementGuid>ca34e1d7-3cec-4ea0-8872-c21be8f42726</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
+      <name>text</name>
       <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>274f71e6-8c64-45ad-a2b9-9e8fbc4bbf30</webElementGuid>
+      <value>Mua hàng</value>
+      <webElementGuid>0a427bdf-d3e8-4242-ad62-71120c4b1ed4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>ce50867e-0113-47c3-8922-5d88941a518f</webElementGuid>
+      <value>md5.v1-c4ff22d8fb95463a2ad86f7726221d78</value>
+      <webElementGuid>567bd151-6d84-486b-bf61-02cda05d308c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>16f97f95-ad1a-46be-8d8e-5dec27c4977c</webElementGuid>
+      <value>//*[@id = 'checkoutBtn']</value>
+      <webElementGuid>acbe8ba3-c7d4-429c-8c27-6ae064548439</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b085a258-bd0f-4f3d-8da9-a476c14ecfa1</webElementGuid>
+      <value>//*[@id = 'checkoutBtn']</value>
+      <webElementGuid>ead6cc4c-eec0-4811-8920-8558039ada7a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>89a99a18-29a8-43fe-8dc9-9e918f056a45</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'checkoutBtn' and (text() = 'Mua hàng' or . = 'Mua hàng')]</value>
+      <webElementGuid>91136256-63fb-4495-9c77-c955b3a625ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

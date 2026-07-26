@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>div_menuToggle</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>0da539ef-884d-4b96-86fc-e958e5a9fc98</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>#menuToggle</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@id = 'menuToggle']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>#menuToggle</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,63 +28,66 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>9bdb1323-4974-44c7-9723-69496cb85ca1</webElementGuid>
+      <value>div</value>
+      <webElementGuid>ce6db35c-bcbe-4856-ac1e-7f264fd3d726</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-toggle</value>
+      <webElementGuid>7ef26ecc-049e-496d-87e1-a4c03995e8c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>3b5f87e5-d5ad-43c3-a27a-dc01889ae756</webElementGuid>
+      <value>menuToggle</value>
+      <webElementGuid>48a1d06c-a653-49d6-98f0-a271bdbff670</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>text</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>df216cf5-e3d6-4c9c-99c5-2cdce4bfe72a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>274f71e6-8c64-45ad-a2b9-9e8fbc4bbf30</webElementGuid>
+      <value>
+                 Danh sách hàng hóa            </value>
+      <webElementGuid>bd2a8971-e1cc-4ae3-be5e-24aa16990ed5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>ce50867e-0113-47c3-8922-5d88941a518f</webElementGuid>
+      <value>md5.v1-70d3d28a884e4ea4b5f9c7403969a090</value>
+      <webElementGuid>8d744944-f320-466b-9897-af49c2071af0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>16f97f95-ad1a-46be-8d8e-5dec27c4977c</webElementGuid>
+      <value>//*[@id = 'menuToggle']</value>
+      <webElementGuid>8a929f3e-6b4d-4bb0-9c93-d72898bfc5b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b085a258-bd0f-4f3d-8da9-a476c14ecfa1</webElementGuid>
+      <value>//*[@id = 'menuToggle']</value>
+      <webElementGuid>2e52bccd-4d9d-4689-bb29-3cbee8735244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>89a99a18-29a8-43fe-8dc9-9e918f056a45</webElementGuid>
+      <value>//div[@id = 'menuToggle' and (text() = '
+                 Danh sách hàng hóa            ' or . = '
+                 Danh sách hàng hóa            ')]</value>
+      <webElementGuid>f7228bef-4a3e-4d75-93d3-9f9d89530012</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

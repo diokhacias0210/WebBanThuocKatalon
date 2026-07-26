@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>054ef1b5-5207-487c-817a-4cb36c66cc9b</webElementGuid>
+      <webElementGuid>f7e7186e-283b-4606-ae5d-174dd9f55fb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +41,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>ef53cc36-1631-4322-860f-bb24ac7e71d3</webElementGuid>
+      <webElementGuid>3f673f2f-07cd-48c2-aa2f-19600563668d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>d39b6ab4-48ab-4f3a-9d04-3815044a0a68</webElementGuid>
+      <webElementGuid>da919ddb-ac99-4626-9aac-66b440d8e7e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>5d82b8ab-d4ef-43a6-b0b8-af6dea73654c</webElementGuid>
+      <webElementGuid>8d3f8f7e-dfbc-4f1e-8ae9-9f1f5d1e6035</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +65,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-5889e8f4ab8798d244ecbbc51aa6e324</value>
-      <webElementGuid>2f9410d4-87fd-420c-87ea-1efef2fbd520</webElementGuid>
+      <webElementGuid>ca4820d5-0970-4092-a4bd-732d481fad61</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>fe9bc94a-0137-4307-af93-af377f7201ca</webElementGuid>
+      <webElementGuid>50e3dbfb-e3c9-4474-8ce5-f5b6fd8dc8e7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>ada7aa37-d218-4dcc-bf43-b6debbd51b6a</webElementGuid>
+      <webElementGuid>3749e1a6-6293-4fbd-a436-751428c0236c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +89,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>187e530b-b3a1-402d-b224-77e5d50eaf59</webElementGuid>
+      <webElementGuid>6285dd5b-57ec-4229-af70-72fbe52367a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

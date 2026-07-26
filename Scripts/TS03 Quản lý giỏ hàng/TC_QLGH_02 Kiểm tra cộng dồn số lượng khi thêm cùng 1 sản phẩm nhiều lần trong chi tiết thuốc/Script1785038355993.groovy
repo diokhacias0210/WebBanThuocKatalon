@@ -17,3 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.setText(findTestObject('Page_PharmaCare/input_Nhp s in thoi'), '0913420982')
+
+WebUI.setEncryptedText(findTestObject('Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('Page_PharmaCare  Nh thuc trc tuyn/i_fa-solid fa-bars'))
+
+WebUI.click(findTestObject('Page_PharmaCare  Nh thuc trc tuyn/a_Danh sch hng ha'))
+
+WebUI.click(findTestObject('Page_Danh sch sn phm thuc  PharmaCare/img_Vin si Tovalgan Ef Trng Th Pharma'))
+
+WebUI.click(findTestObject('Page_Vin si Tovalgan Ef Trng Th Pharma  PharmaCare/i_fa-solid fa-plus'))
+
+WebUI.click(findTestObject('Page_Vin si Tovalgan Ef Trng Th Pharma  PharmaCare/i_fa-solid fa-minus'))
+
+WebUI.click(findTestObject('Page_Vin si Tovalgan Ef Trng Th Pharma  PharmaCare/button_Thm vo gi hng'))
+
+WebUI.rightClick(findTestObject('Page_Vin si Tovalgan Ef Trng Th Pharma  PharmaCare/a_Gi hng'))
+
+WebUI.assertElementPresent(findTestObject('Page_Vin si Tovalgan Ef Trng Th Pharma  PharmaCare/a_Gi hng'), 0)
+
+WebUI.closeBrowser()
+
