@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>button_To ti khon</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>d2f94bf9-5266-4bcd-99e5-286de3d89d28</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>.btn</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>internal:role=button[name=&quot;Tạo tài khoản&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -32,63 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>bb5b9ec6-9f9e-46b0-abed-ebb29652cd47</webElementGuid>
+      <value>button</value>
+      <webElementGuid>2f9af3b6-b024-497e-a2e0-235804ff91ac</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>287a0d65-0266-4f8b-8426-7f8abb430cde</webElementGuid>
+      <value>submit</value>
+      <webElementGuid>24b92fff-83ed-416f-b704-c2fc9c42ce2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>e0278754-8b19-4d93-b0aa-92b81fc25815</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>name</name>
+      <name>text</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>e8dadd74-b982-4bb6-8b78-7cf98981dfe1</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>d4d98906-90c9-4103-9ca4-b7e9235f6e65</webElementGuid>
+      <value>Tạo tài khoản</value>
+      <webElementGuid>371d7a0e-99f3-49b4-9811-ed9d073d299f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>dfa6500b-5b12-49b9-ae1c-e179178ee2b3</webElementGuid>
+      <value>md5.v1-5889e8f4ab8798d244ecbbc51aa6e324</value>
+      <webElementGuid>61b18330-9c84-416f-9ccf-bda6bb5acd40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>40caf528-55aa-4663-8759-2097d7889e5c</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
+      <webElementGuid>a75b2fc6-dbe4-4158-9b0d-7272a0d9f261</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b2372eee-2587-4002-a4d5-8f14799e2027</webElementGuid>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
+      <webElementGuid>261280f7-2db5-4852-b047-d614483a2589</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>a312a59b-262f-49c2-ade7-27f1b440d105</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Tạo tài khoản' or . = 'Tạo tài khoản')]</value>
+      <webElementGuid>8358a06a-be05-4a20-bba4-db2ead4a1dd1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

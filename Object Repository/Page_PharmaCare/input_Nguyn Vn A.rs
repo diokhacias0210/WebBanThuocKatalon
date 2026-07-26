@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>input_Nguyn Vn A</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>b81d6266-668c-4ba8-8ad2-27e161ef0855</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>[name=&quot;hoTen&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@name = 'hoTen']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nguyễn Văn A&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,62 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bb5b9ec6-9f9e-46b0-abed-ebb29652cd47</webElementGuid>
+      <webElementGuid>01b90904-db41-4ddc-a2f5-e673bcb19320</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>287a0d65-0266-4f8b-8426-7f8abb430cde</webElementGuid>
+      <value>text</value>
+      <webElementGuid>3153f02c-4916-4276-8dc6-256092bf0cc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>e8dadd74-b982-4bb6-8b78-7cf98981dfe1</webElementGuid>
+      <value>hoTen</value>
+      <webElementGuid>9549eee2-01ff-46b4-ad1f-6f70acb0e39e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>d4d98906-90c9-4103-9ca4-b7e9235f6e65</webElementGuid>
+      <value>Nguyễn Văn A</value>
+      <webElementGuid>5862af57-b90a-4b75-b9e7-0c3193fae25b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>dfa6500b-5b12-49b9-ae1c-e179178ee2b3</webElementGuid>
+      <value>md5.v1-b6d159bb52f906ebc572428f1d35ba2c</value>
+      <webElementGuid>9b11ee87-7d6f-4294-bd8d-273385d44a7c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>40caf528-55aa-4663-8759-2097d7889e5c</webElementGuid>
+      <value>//*[@name = 'hoTen']</value>
+      <webElementGuid>9d26951b-8e94-498a-bebe-49b3637ae18b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b2372eee-2587-4002-a4d5-8f14799e2027</webElementGuid>
+      <value>//*[@name = 'hoTen']</value>
+      <webElementGuid>518a54b9-3f1a-41f3-b439-557dec4690c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>a312a59b-262f-49c2-ade7-27f1b440d105</webElementGuid>
+      <value>//input[@type = 'text' and @name = 'hoTen' and @placeholder = 'Nguyễn Văn A']</value>
+      <webElementGuid>09c87457-2587-45d8-9840-883f13f8a1f8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,28 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Nhp mt khu</name>
+   <name>input_examplegmail.com</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>0a6997a2-5022-495f-8851-96fc0cf066b1</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+         <value>[name=&quot;email&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@name = 'matKhau']</value>
+         <value>//*[@name = 'email']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;example@gmail.com&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -33,62 +29,62 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bb5b9ec6-9f9e-46b0-abed-ebb29652cd47</webElementGuid>
+      <webElementGuid>c31b4d9d-051b-44eb-a4e9-599152a1e5b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>password</value>
-      <webElementGuid>287a0d65-0266-4f8b-8426-7f8abb430cde</webElementGuid>
+      <value>email</value>
+      <webElementGuid>0b702b85-c39b-4129-aa78-d9b9b939e7a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>matKhau</value>
-      <webElementGuid>e8dadd74-b982-4bb6-8b78-7cf98981dfe1</webElementGuid>
+      <value>email</value>
+      <webElementGuid>ef2da7b9-4585-491b-ad58-0d106ec74fe3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Nhập mật khẩu</value>
-      <webElementGuid>d4d98906-90c9-4103-9ca4-b7e9235f6e65</webElementGuid>
+      <value>example@gmail.com</value>
+      <webElementGuid>3f932fcf-e059-4159-b9b2-03dcf23b806b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>dfa6500b-5b12-49b9-ae1c-e179178ee2b3</webElementGuid>
+      <value>md5.v1-8ff323be03ffe3004334bd041dab0422</value>
+      <webElementGuid>cafdd312-89dc-4c04-9f7d-b95288eccb02</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>40caf528-55aa-4663-8759-2097d7889e5c</webElementGuid>
+      <value>//*[@name = 'email']</value>
+      <webElementGuid>4d9e66ba-d1ed-4a3c-a0a8-321e027d4efc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b2372eee-2587-4002-a4d5-8f14799e2027</webElementGuid>
+      <value>//*[@name = 'email']</value>
+      <webElementGuid>e5053bac-ec33-4da6-8236-c9062f6c02c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>a312a59b-262f-49c2-ade7-27f1b440d105</webElementGuid>
+      <value>//input[@type = 'email' and @name = 'email' and @placeholder = 'example@gmail.com']</value>
+      <webElementGuid>74a5517e-24d7-4ae3-a004-d6f3681c7f9e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

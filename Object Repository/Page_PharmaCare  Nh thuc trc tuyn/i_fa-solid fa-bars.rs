@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>ec914f2c-1352-430d-877a-446ceae0ef5b</webElementGuid>
+      <webElementGuid>3bd2fa8b-a584-4308-a10a-e2123f262b2c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fa-solid fa-bars</value>
-      <webElementGuid>6bb9b9fb-5e4c-45d8-b2a5-68a61ca7affb</webElementGuid>
+      <webElementGuid>58825971-280f-4486-9169-adad36b5abef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -49,7 +49,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-560039917a3e8d1d57a47f2d00e1e6e8</value>
-      <webElementGuid>82b7e6e8-5738-4cdf-ad8e-f04bf596738f</webElementGuid>
+      <webElementGuid>e4ddb484-1bbb-4900-a5e4-cc563b6a339c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fa-bars ')]</value>
-      <webElementGuid>69f88b42-e306-4db7-8d58-dca71a8cf6b7</webElementGuid>
+      <webElementGuid>b8a6c9d8-2988-4178-b2b5-c09e3145d131</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -65,6 +65,6 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' fa-bars ')]</value>
-      <webElementGuid>22c4a674-33c5-4b1a-8315-263f8044fa22</webElementGuid>
+      <webElementGuid>45932dd0-2672-491f-aa43-f720d4912a61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

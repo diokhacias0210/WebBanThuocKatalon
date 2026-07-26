@@ -3,15 +3,11 @@
    <description></description>
    <name>input_Nhp mt khu</name>
    <tag></tag>
-   <elementGuidId>9d072b6d-4954-47cd-b853-38544dd9f34f</elementGuidId>
+   <elementGuidId>66ff4dfc-1875-4f74-b01b-f49baef9f239</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
          <value>[name=&quot;matKhau&quot;]</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -33,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bb5b9ec6-9f9e-46b0-abed-ebb29652cd47</webElementGuid>
+      <webElementGuid>8991b2a4-1061-46af-84b2-65ce090e0c40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -41,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>287a0d65-0266-4f8b-8426-7f8abb430cde</webElementGuid>
+      <webElementGuid>a2da52f4-c880-4cf0-8955-ccde266af7d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>matKhau</value>
-      <webElementGuid>e8dadd74-b982-4bb6-8b78-7cf98981dfe1</webElementGuid>
+      <webElementGuid>87ca6be4-a720-4d1d-b98b-88754906ddcc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -57,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập mật khẩu</value>
-      <webElementGuid>d4d98906-90c9-4103-9ca4-b7e9235f6e65</webElementGuid>
+      <webElementGuid>d024e2a5-8080-4627-94d5-4c9ca84fc4eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -65,7 +61,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
-      <webElementGuid>dfa6500b-5b12-49b9-ae1c-e179178ee2b3</webElementGuid>
+      <webElementGuid>29977c8d-702f-4452-b82e-1f5208f540b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -73,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>40caf528-55aa-4663-8759-2097d7889e5c</webElementGuid>
+      <webElementGuid>b979c2d5-b7ac-4397-a01b-bac6e3c6459e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'matKhau']</value>
-      <webElementGuid>b2372eee-2587-4002-a4d5-8f14799e2027</webElementGuid>
+      <webElementGuid>217f3dac-e1f3-428b-b261-7ef1403c8ea6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
-      <webElementGuid>a312a59b-262f-49c2-ade7-27f1b440d105</webElementGuid>
+      <webElementGuid>eec27d5b-d171-4caf-9128-42757e230cab</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

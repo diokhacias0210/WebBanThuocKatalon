@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>New Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>d9d410f9-fe62-4980-bbf7-29b52ef15bd9</testSuiteGuid>
+   <testCaseLink>
+      <guid>c4ffa24c-9402-4adc-a130-822d80076b9e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/chay test suie/TC_DangKyTaiKhoan_Excel_20TC</testCaseId>
+      <testDataLink>
+         <combinationType>MANY</combinationType>
+         <id>ab97fbc6-8e3c-4a13-b5ae-44a8c936d999</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData_DangKyTaiKhoan_20TC</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>ab97fbc6-8e3c-4a13-b5ae-44a8c936d999</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>HoTen</value>
+         <variableId>ce76caaa-5c51-4400-bc5b-8492da8eb33a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab97fbc6-8e3c-4a13-b5ae-44a8c936d999</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Email</value>
+         <variableId>a9ccab6f-d63b-4380-aa32-a82feae9bd6d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab97fbc6-8e3c-4a13-b5ae-44a8c936d999</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>SoDienThoai</value>
+         <variableId>33d64f4b-14f6-47fb-822e-9e906ff56952</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ab97fbc6-8e3c-4a13-b5ae-44a8c936d999</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>MatKhau</value>
+         <variableId>096e76cb-8f87-4ad2-881b-9d8986dac801</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

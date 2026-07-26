@@ -21,6 +21,8 @@ WebUI.openBrowser(null)
 
 WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
 
+WebUI.maximizeWindow()
+
 WebUI.setText(findTestObject('Page_PharmaCare/input_Nhp s in thoi'), '0911234567 ')
 
 WebUI.setEncryptedText(findTestObject('Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
@@ -32,4 +34,38 @@ WebUI.click(findTestObject('Page_PharmaCare  PharmaCare  H s dc s/a_Qun l l thuc
 WebUI.rightClick(findTestObject('Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc'))
 
 WebUI.assertElementPresent(findTestObject('Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc'), 0)
+
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.setText(findTestObject('New Folder/New Folder/Page_PharmaCare/input_Nhp s in thoi'), '0911234567 ')
+
+WebUI.setEncryptedText(findTestObject('New Folder/New Folder/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('New Folder/New Folder/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('New Folder/New Folder/Page_PharmaCare  PharmaCare  H s dc s/a_Qun l l thuc'))
+
+WebUI.rightClick(findTestObject('New Folder/New Folder/Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc'))
+
+WebUI.assertElementPresent(findTestObject('New Folder/New Folder/Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc'), 0)
+
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.click(findTestObject('New Folder/New Folder/Page_PharmaCare/div_PharmaCare'))
+
+WebUI.setText(findTestObject('New Folder/New Folder/Page_PharmaCare/input_Nhp s in thoi'), '0911234567')
+
+WebUI.setEncryptedText(findTestObject('New Folder/New Folder/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('New Folder/New Folder/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('New Folder/New Folder/Page_PharmaCare  PharmaCare  H s dc s/a_Qun l l thuc'))
+
+WebUI.rightClick(findTestObject('New Folder/New Folder/Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc_1'))
+
+WebUI.assertElementPresent(findTestObject('New Folder/New Folder/Page_PharmaCare  Qun L L Thuc/div_Qun l l thuc_1'), 0)
 

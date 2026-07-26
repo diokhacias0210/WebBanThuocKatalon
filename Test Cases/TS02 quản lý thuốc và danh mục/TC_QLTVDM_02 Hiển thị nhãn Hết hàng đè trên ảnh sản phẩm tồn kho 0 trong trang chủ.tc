@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_02 Hiển thị nhãn Hết hàng đè trên ảnh sản phẩm tồn kho 0 trong trang chủ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5432b6c-de6e-4e26-aab9-64d63e976c71</testCaseGuid>
+</TestCaseEntity>
