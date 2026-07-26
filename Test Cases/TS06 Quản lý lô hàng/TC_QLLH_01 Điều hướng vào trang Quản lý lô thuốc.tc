@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLLH_01 Điều hướng vào trang Quản lý lô thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ae798733-7dcb-4092-9678-baa8b7c7a911</testCaseGuid>
+</TestCaseEntity>

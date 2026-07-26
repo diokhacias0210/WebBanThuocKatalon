@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_01 Thêm sản phẩm vào giỏ hàng thành công với số lượng 1 trong chi tiết thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6d372571-4dc8-46c0-bbc8-aa0a67afa980</testCaseGuid>
+</TestCaseEntity>

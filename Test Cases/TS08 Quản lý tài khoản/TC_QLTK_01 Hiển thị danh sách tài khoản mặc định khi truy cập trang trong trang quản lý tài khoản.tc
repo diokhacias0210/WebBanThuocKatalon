@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_01 Hiển thị danh sách tài khoản mặc định khi truy cập trang trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8886c21e-4e57-49d6-961f-c3e7e7b1a37a</testCaseGuid>
+</TestCaseEntity>

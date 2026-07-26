@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTTVDH_01 Khách hàng hủy đơn hàng mua khi đang ở trạng thái Chờ xác nhận trong trang thanh toán và đặt hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80c463df-96bc-45f3-94d8-9aa101c637fe</testCaseGuid>
+</TestCaseEntity>
