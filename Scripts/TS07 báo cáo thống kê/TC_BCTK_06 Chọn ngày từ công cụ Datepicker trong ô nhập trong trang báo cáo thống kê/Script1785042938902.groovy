@@ -23,23 +23,21 @@ WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap
 
 WebUI.maximizeWindow()
 
-WebUI.setText(findTestObject('TC_BCTK_06/Page_PharmaCare/input_Nhp s in thoi'), '0999888777')
+WebUI.setText(findTestObject('TC_BCTK06/Page_PharmaCare/input_Nhp s in thoi'), '0999888777')
 
-WebUI.click(findTestObject('TC_BCTK_06/Page_PharmaCare/form_S in thoi'))
+WebUI.setEncryptedText(findTestObject('TC_BCTK06/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
 
-WebUI.setEncryptedText(findTestObject('TC_BCTK_06/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+WebUI.click(findTestObject('TC_BCTK06/Page_PharmaCare/button_ng nhp'))
 
-WebUI.click(findTestObject('TC_BCTK_06/Page_PharmaCare/button_ng nhp'))
+WebUI.click(findTestObject('TC_BCTK06/Page_Admin Panel  Qun L Ti Khon/a_Tng quan'))
 
-WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Qun L Ti Khon/a_Tng quan'))
+WebUI.setText(findTestObject('TC_BCTK06/Page_Admin Panel  Bo Co Thng K/input_startDate'), '2026-05-13')
 
-WebUI.setText(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/input_startDate'), '2026-05-13')
+WebUI.click(findTestObject('TC_BCTK06/Page_Admin Panel  Bo Co Thng K/button_btnFilterData'))
 
-WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/button_btnFilterData'))
+WebUI.click(findTestObject('TC_BCTK06/Page_Admin Panel  Bo Co Thng K/div_Siro HoAstex-S 90ml'))
 
-WebUI.rightClick(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc h thn kinh'))
-
-WebUI.assertElementPresent(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc h thn kinh'), 0)
+WebUI.rightClick(findTestObject('TC_BCTK06/Page_Admin Panel  Bo Co Thng K/div_Siro HoAstex-S 90ml'))
 
 WebUI.closeBrowser()
 
