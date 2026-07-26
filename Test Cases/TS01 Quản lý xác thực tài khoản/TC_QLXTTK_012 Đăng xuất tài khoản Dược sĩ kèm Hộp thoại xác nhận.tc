@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_012 Đăng xuất tài khoản Dược sĩ kèm Hộp thoại xác nhận</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0288f363-223e-4a68-a79b-32e962586a1d</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_013 Đăng xuất tài khoản Quản trị viên (Admin) từ Trang quản trị</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>6bc839e3-5191-4470-a35b-17ba1d776637</testCaseGuid>
-</TestCaseEntity>

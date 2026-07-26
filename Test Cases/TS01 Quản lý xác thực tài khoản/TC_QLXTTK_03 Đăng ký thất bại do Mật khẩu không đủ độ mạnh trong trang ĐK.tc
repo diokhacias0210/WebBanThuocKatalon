@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLXTTK_03 Đăng ký thất bại do Mật khẩu không đủ độ mạnh trong trang ĐK</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a1d5f01b-ecb6-41ee-bf14-5d382c4d3909</testCaseGuid>
+</TestCaseEntity>

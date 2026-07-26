@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_10 Chỉnh sửa thông tin người dùng trong trang thông tin cá nhân</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6e3768f0-4564-4ffd-be08-840696445454</testCaseGuid>
+</TestCaseEntity>

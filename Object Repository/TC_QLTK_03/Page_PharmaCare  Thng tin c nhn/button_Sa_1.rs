@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Sa_1</name>
+   <tag></tag>
+   <elementGuidId>949e0b4b-7a64-430d-bf03-e9be32abba62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.addr-item:nth-child(2) .edit-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addr-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' edit-link ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Sửa&quot;i] >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>8cbfbab2-0a86-4cc1-a78a-f9d1ff836a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>edit-link</value>
+      <webElementGuid>61d6f73f-5813-44a1-bc2b-83282f74d102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sửa</value>
+      <webElementGuid>71a653c4-91a3-44dd-a37f-c04f511b16fa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-fe735b6471a0ea5c64a4777db056c905</value>
+      <webElementGuid>824ba0c6-6941-4399-9997-ed4b4e7bd2ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addr-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' edit-link ')]</value>
+      <webElementGuid>f2544e26-d1fa-4864-8107-7ace3bb7d49c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' addr-item ') and (position() = 2)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' edit-link ')]</value>
+      <webElementGuid>c378b6bc-1315-4db3-934e-7b646cf684e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Sửa' or . = 'Sửa')]</value>
+      <webElementGuid>c73f5932-eca3-48c1-bedf-5b2e3a8e68d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
