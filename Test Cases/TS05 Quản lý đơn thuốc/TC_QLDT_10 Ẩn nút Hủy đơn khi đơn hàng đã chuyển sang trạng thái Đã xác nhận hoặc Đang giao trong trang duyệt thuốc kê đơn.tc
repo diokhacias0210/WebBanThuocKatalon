@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_10 Ẩn nút Hủy đơn khi đơn hàng đã chuyển sang trạng thái Đã xác nhận hoặc Đang giao trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>910cc90d-b22d-4b0d-a266-5589453043b1</testCaseGuid>
+</TestCaseEntity>

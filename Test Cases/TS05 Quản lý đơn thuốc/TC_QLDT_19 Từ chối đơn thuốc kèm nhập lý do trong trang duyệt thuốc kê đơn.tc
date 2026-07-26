@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_19 Từ chối đơn thuốc kèm nhập lý do trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b978f09e-2916-43ce-93ef-305d81270825</testCaseGuid>
+</TestCaseEntity>

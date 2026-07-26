@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_05 Mở Phiếu chuẩn bị thuốc và Kiểm tra gợi ý mã lô trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>23a6cde5-288c-4e80-988d-4960636eb893</testCaseGuid>
+</TestCaseEntity>

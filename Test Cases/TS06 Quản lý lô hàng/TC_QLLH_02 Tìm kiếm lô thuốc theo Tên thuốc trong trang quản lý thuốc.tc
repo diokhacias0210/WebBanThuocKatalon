@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLLH_02 Tìm kiếm lô thuốc theo Tên thuốc trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e796ce65-6287-4ee4-93d3-3b3d71c67076</testCaseGuid>
+</TestCaseEntity>

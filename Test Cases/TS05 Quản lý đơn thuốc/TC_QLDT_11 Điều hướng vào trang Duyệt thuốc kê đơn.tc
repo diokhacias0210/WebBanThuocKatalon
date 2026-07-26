@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_11 Điều hướng vào trang Duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ec8c6f0d-6f3a-40bf-9eb3-acbd5132a60d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_13 Tìm kiếm đơn thuốc theo Tên khách hàng trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4f2d6f37-d564-4050-81d6-c04b3430889b</testCaseGuid>
+</TestCaseEntity>

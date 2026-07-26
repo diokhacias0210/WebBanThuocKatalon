@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_14 Lọc đơn thuốc theo Trạng thái duyệt trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2ddb20bb-aca6-4048-9462-f22c6eab8f70</testCaseGuid>
+</TestCaseEntity>

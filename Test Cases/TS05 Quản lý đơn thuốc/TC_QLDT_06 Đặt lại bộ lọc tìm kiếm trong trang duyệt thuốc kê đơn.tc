@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_06 Đặt lại bộ lọc tìm kiếm trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e3f012cf-4376-499e-bb9d-c8bbd4d6a20d</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_09 Hiển thị PopupModal xác nhận khi người dùng bấm nút Hủy đơn trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>209f33b8-dccf-4cd7-ac32-35d6945a5368</testCaseGuid>
+</TestCaseEntity>

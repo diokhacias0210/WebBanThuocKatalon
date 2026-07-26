@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTTVDH_07 Không cho phép chỉnh sửa số lượng tại trang Thanh toán trong trang thanh toán và đặt hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e157bb75-4a30-44aa-abb8-63657580e476</testCaseGuid>
+</TestCaseEntity>

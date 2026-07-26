@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_07 Lọc danh sách theo Trạng thái kho trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58369802-7c25-4e38-8fb4-175b7b120837</testCaseGuid>
+</TestCaseEntity>

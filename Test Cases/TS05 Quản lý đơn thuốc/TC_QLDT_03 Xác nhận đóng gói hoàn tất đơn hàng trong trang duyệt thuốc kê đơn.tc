@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_03 Xác nhận đóng gói hoàn tất đơn hàng trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4c65ef88-6574-4e7f-9aaa-c6cd6d991015</testCaseGuid>
+</TestCaseEntity>

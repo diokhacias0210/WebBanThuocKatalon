@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_08 Tìm kiếm đơn hàng theo Tên khách hàng trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>54f82b53-6fc4-4941-973e-3d1634f750fc</testCaseGuid>
+</TestCaseEntity>

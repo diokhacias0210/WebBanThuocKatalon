@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTTVDH_09 Để trống ô Ghi chú đơn hàng khi đặt hàng trong trang thanh toán và đặt hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>df990212-518e-4e3e-9f82-fcab46c577d6</testCaseGuid>
+</TestCaseEntity>
