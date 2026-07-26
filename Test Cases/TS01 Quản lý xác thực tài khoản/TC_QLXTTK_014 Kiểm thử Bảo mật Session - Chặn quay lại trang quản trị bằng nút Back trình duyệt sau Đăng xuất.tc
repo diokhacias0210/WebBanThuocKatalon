@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_014 Kiểm thử Bảo mật Session - Chặn quay lại trang quản trị bằng nút Back trình duyệt sau Đăng xuất</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>c1514d5a-5cf1-4c4d-afa9-6d1d1e2b7bc0</testCaseGuid>
-</TestCaseEntity>

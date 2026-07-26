@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_011 Đăng xuất tài khoản Khách hàng thành công từ Navbar</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>00a8818b-7059-4ebf-8c4d-951e966d1b91</testCaseGuid>
-</TestCaseEntity>

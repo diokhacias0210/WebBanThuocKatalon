@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLLH_05 Chỉnh sửa thông tin lô thuốc thành công trong trang quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>3132e575-063b-4b29-b1eb-98b7b42fedc3</testCaseGuid>
-</TestCaseEntity>

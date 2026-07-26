@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_BCTK_02 Xuất báo cáo CSV thành công khi có dữ liệu trong trang báo cáo thống kê</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>39315d00-79c4-4dbb-a8aa-f93d87308365</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_06 Đăng nhập thành công - Quyền Quản trị viên trong trang đăng nhập</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>7a0ee15d-a30e-4eb9-ab99-a15a8e0402cf</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTK_10 Đặt địa chỉ mới làm Địa chỉ giao hàng mặc định trong trang thông tin cá nhân</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b5e7295e-5c06-4b91-ab6f-fecf91c5f6cc</testCaseGuid>
-</TestCaseEntity>

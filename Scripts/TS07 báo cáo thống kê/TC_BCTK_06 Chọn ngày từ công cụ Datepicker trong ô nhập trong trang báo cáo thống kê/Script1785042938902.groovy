@@ -17,3 +17,33 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('TC_BCTK_06/Page_PharmaCare/input_Nhp s in thoi'), '0999888777')
+
+WebUI.setEncryptedText(findTestObject('TC_BCTK_06/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('TC_BCTK_06/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Qun L Ti Khon/a_Qun l ti khon'))
+
+WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Qun L Ti Khon/a_Tng quan'))
+
+WebUI.setText(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/input_startDate'), '2026-05-05')
+
+WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/button_btnFilterData'))
+
+WebUI.click(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc mt tai mi hng'))
+
+WebUI.doubleClick(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc mt tai mi hng'))
+
+WebUI.rightClick(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc mt tai mi hng'))
+
+WebUI.assertElementPresent(findTestObject('TC_BCTK_06/Page_Admin Panel  Bo Co Thng K/td_Thuc mt tai mi hng'), 0)
+
+WebUI.closeBrowser()
+

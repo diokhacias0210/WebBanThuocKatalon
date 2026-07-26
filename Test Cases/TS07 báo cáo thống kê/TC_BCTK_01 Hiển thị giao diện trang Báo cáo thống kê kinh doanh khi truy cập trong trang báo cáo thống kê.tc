@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_BCTK_01 Hiển thị giao diện trang Báo cáo thống kê kinh doanh khi truy cập trong trang báo cáo thống kê</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>798a1207-a399-48ff-bf45-492b8dc1675a</testCaseGuid>
-</TestCaseEntity>

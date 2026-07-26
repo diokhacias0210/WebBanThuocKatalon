@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_05Đăng nhập thành công - Quyền Dược sĩ trong trang đăng nhập</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>d51fa8ad-f83e-42c3-bc01-763bbffadceb</testCaseGuid>
-</TestCaseEntity>

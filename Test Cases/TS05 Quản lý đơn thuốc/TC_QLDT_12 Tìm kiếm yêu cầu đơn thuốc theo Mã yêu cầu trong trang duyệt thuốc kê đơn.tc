@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_12 Tìm kiếm yêu cầu đơn thuốc theo Mã yêu cầu trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>42c70087-b5b3-4728-906b-796dd1d3f64c</testCaseGuid>
-</TestCaseEntity>

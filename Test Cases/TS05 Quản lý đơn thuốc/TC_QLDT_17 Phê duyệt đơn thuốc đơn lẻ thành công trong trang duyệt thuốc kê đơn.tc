@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_17 Phê duyệt đơn thuốc đơn lẻ thành công trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a42a96b1-1186-469d-9bd7-17bd45825cb5</testCaseGuid>
-</TestCaseEntity>

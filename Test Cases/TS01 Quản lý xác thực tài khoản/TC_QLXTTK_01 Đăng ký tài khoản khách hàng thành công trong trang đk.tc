@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_01 Đăng ký tài khoản khách hàng thành công trong trang đk</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>afbf9259-cc7b-4802-8d9c-a1fbf45d30a7</testCaseGuid>
-</TestCaseEntity>

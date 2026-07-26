@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_14 Kiểm tra nhập số âm hoặc ký tự không hợp lệ cho Giá và Tồn kho trong trang quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a0e02c8e-b3c7-4223-8090-609a4a90880a</testCaseGuid>
-</TestCaseEntity>

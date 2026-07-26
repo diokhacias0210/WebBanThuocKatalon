@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTK_06Không cho phép thay đổi trường số điện thoại trong trang quản lý tài khoản</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>348288c5-fab0-413b-8595-3216a2fa1c0e</testCaseGuid>
-</TestCaseEntity>

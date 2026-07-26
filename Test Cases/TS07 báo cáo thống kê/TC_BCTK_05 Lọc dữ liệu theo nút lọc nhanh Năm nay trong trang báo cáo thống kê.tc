@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_BCTK_05 Lọc dữ liệu theo nút lọc nhanh Năm nay trong trang báo cáo thống kê</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>fb350c2a-d533-4d4c-8198-f7620235082e</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_04 Tìm kiếm theo Mã đơn hàng chính xác Ví dụ DH00014 trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ba344726-8ea3-4f3d-9153-0cc9cb2cdb9f</testCaseGuid>
-</TestCaseEntity>

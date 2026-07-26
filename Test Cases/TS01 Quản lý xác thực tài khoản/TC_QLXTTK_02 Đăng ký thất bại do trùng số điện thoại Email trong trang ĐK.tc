@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLXTTK_02 Đăng ký thất bại do trùng số điện thoại Email trong trang ĐK</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>8b85e02e-9a17-4e03-b434-366c9c1ae292</testCaseGuid>
-</TestCaseEntity>
