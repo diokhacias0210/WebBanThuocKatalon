@@ -17,3 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangKy')
+
+WebUI.setText(findTestObject('Page_PharmaCare/input_Nguyn Vn A'), 'jsdlkfjasdlkf')
+
+WebUI.setText(findTestObject('Page_PharmaCare/input_examplegmail.com'), 'adsjkfalsdj@gmail.com')
+
+WebUI.setText(findTestObject('Page_PharmaCare/input_09xx xxx xxx'), '01324762387462')
+
+WebUI.setEncryptedText(findTestObject('Page_PharmaCare/input_Ti thiu 6 k t'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('Page_PharmaCare/button_To ti khon'))
+
+WebUI.rightClick(findTestObject('Page_PharmaCare/h2_Cho mng tr li'))
+
