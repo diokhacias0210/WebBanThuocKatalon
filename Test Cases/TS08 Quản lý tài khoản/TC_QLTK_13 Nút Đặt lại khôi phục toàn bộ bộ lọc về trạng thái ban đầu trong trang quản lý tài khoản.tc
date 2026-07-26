@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_13 Nút Đặt lại khôi phục toàn bộ bộ lọc về trạng thái ban đầu trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d3ef12e6-e287-438a-9bce-f2f631be7422</testCaseGuid>
+</TestCaseEntity>

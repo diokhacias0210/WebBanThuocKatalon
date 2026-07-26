@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_09 Thêm mới địa chỉ giao hàng phụ thành công trong trang thông tin cá nhân</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b69c0c1d-3cde-45a6-a653-76647401bb3d</testCaseGuid>
+</TestCaseEntity>

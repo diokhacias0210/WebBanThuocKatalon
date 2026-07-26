@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_08 Cấm thay đổi vai trò của chính tài khoản Admin đang đăng nhập trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36ad30f8-cd2d-439f-a564-0eea35896abe</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_11 Lọc danh sách tài khoản theo Trạng thái Hoạt động Bị khóa trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9540eb46-364d-4489-b7ec-294eb065dd1a</testCaseGuid>
+</TestCaseEntity>

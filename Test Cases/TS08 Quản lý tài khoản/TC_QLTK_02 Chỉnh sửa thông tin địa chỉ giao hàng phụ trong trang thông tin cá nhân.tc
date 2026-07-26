@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_02 Chỉnh sửa thông tin địa chỉ giao hàng phụ trong trang thông tin cá nhân</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8c03cabe-d552-4767-9105-e759bbcb04ce</testCaseGuid>
+</TestCaseEntity>

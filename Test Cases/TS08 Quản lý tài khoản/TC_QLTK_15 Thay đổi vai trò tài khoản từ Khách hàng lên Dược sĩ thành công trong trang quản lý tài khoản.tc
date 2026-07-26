@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_15 Thay đổi vai trò tài khoản từ Khách hàng lên Dược sĩ thành công trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>22c82a34-84b8-4983-bbce-a8339924c80f</testCaseGuid>
+</TestCaseEntity>

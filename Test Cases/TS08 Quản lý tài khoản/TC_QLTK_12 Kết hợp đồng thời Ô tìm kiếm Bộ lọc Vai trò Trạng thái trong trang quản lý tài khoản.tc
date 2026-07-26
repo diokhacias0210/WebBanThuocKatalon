@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_12 Kết hợp đồng thời Ô tìm kiếm Bộ lọc Vai trò Trạng thái trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64289560-fd93-42ba-8530-38a90573ae4a</testCaseGuid>
+</TestCaseEntity>

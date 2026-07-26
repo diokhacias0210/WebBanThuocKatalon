@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLLH_03 Đặt lại bộ lọc trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>407abf30-10a1-485e-917d-007962237aa1</testCaseGuid>
+</TestCaseEntity>

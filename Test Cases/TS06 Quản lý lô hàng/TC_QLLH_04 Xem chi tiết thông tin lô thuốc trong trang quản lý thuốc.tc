@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLLH_04 Xem chi tiết thông tin lô thuốc trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>720c386e-aef8-488e-9f4f-b645205e9228</testCaseGuid>
+</TestCaseEntity>

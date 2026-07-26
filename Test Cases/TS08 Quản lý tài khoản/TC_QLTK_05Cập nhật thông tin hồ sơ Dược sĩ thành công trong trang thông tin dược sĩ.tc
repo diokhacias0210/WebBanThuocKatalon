@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_05Cập nhật thông tin hồ sơ Dược sĩ thành công trong trang thông tin dược sĩ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e4ca7d1b-56af-4e7b-b060-4cbc713ada62</testCaseGuid>
+</TestCaseEntity>

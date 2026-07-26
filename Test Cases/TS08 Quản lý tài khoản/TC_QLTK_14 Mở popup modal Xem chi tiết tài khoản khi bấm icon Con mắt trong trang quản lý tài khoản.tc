@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_14 Mở popup modal Xem chi tiết tài khoản khi bấm icon Con mắt trong trang quản lý tài khoản</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>58687909-544c-4b10-9489-8758f276e668</testCaseGuid>
+</TestCaseEntity>
