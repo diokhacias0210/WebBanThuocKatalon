@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Tm theo tn, email hoc s in thoi</name>
+   <tag></tag>
+   <elementGuidId>0108e356-b334-4669-b3ca-0b66d0c42da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#searchInput</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'searchInput']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Tìm theo tên, email hoặc số điện thoại...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>08e51816-b9f9-4f39-935e-f3a653779386</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>65a7a5dd-d486-4d1c-89a1-d78c25ba7d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>searchInput</value>
+      <webElementGuid>55064e3c-a019-4ffb-a1c2-3ff4a6fd9b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Tìm theo tên, email hoặc số điện thoại...</value>
+      <webElementGuid>d6dc37c9-45b6-4e90-8513-925c9eb2e234</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-bd4a98b3f75835b4712b4d0cd672ccd8</value>
+      <webElementGuid>27e176f2-42dc-4132-a5f4-99ca1725d9c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'searchInput']</value>
+      <webElementGuid>bf61d841-4e7e-4091-9300-73b2675224f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'searchInput']</value>
+      <webElementGuid>4d534852-e28e-4909-a62e-8d2784838a05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'searchInput' and @placeholder = 'Tìm theo tên, email hoặc số điện thoại...']</value>
+      <webElementGuid>2ce57551-aa54-4b92-ac4d-15c76d6e075e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

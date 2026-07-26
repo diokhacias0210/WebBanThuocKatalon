@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_39 Điều hướng khi nhấp chọn mục Danh sách hàng hóa</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>65f3a1e6-b0be-440e-ba7a-ef338e6912c9</testCaseGuid>
-</TestCaseEntity>

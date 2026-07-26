@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_50k - 200k</name>
+   <tag></tag>
+   <elementGuidId>6e024ee5-404a-4d4e-8fa0-64a0b12919e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>.price-tag:nth-child(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price-tag ') and (position() = 3)]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;50k - 200k&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aaaf6679-36f5-4ae5-b4ca-d07dc3ab0307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>price-tag</value>
+      <webElementGuid>908e01c8-f880-4bca-817d-205b8cdb95a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-min</name>
+      <type>Main</type>
+      <value>50000</value>
+      <webElementGuid>9f0b22a7-f2ee-4897-bfe2-a1f82009ae62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-max</name>
+      <type>Main</type>
+      <value>200000</value>
+      <webElementGuid>53de6145-ec52-4ae4-a5f0-ecd6a9568677</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>50k - 200k</value>
+      <webElementGuid>27b26998-3d75-4d49-9174-df041ad19b51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b31a9762560087bf3270e28669168064</value>
+      <webElementGuid>fde84a72-93a1-4347-a205-fcda9c0b9f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price-tag ') and (position() = 3)]</value>
+      <webElementGuid>cab7072e-f54e-4d52-8a4d-fba8e468f6ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' price-tag ') and (position() = 3)]</value>
+      <webElementGuid>b5c482c3-bb6c-460d-9b87-3a48eb1ef06d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '50k - 200k' or . = '50k - 200k')]</value>
+      <webElementGuid>b4c86abb-ca05-4f99-b935-26f72e5c11f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

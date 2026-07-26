@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_VD_ Thuc nh mt, Dung dch sc ming</name>
+   <tag></tag>
+   <elementGuidId>633a49a4-4d19-4ae4-ba3c-1e6b9159ac63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#f_tenDanhMuc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'f_tenDanhMuc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;VD: Thuốc nhỏ mắt, Dung dịch súc miệng&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>73f480ad-75e3-48ff-b5b6-e387dde4c5c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>fe842096-3b50-4f7d-a40e-1a6d662e533c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>f_tenDanhMuc</value>
+      <webElementGuid>01d31175-b390-4456-826a-295e47472387</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>tenDanhMuc</value>
+      <webElementGuid>95d58fc1-4423-49a6-b7d7-7ec469325976</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>VD: Thuốc nhỏ mắt, Dung dịch súc miệng</value>
+      <webElementGuid>760ab244-c308-4862-812e-e2e8703fdb8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-2be2c4053356c56d83a9a2067f883303</value>
+      <webElementGuid>12b9e1a9-e874-41c6-927f-8d69a74b8b58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_tenDanhMuc']</value>
+      <webElementGuid>53f89b66-50e5-47de-87fe-352579f9b470</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_tenDanhMuc']</value>
+      <webElementGuid>c263045e-8b8f-4c76-b015-9a394c83e358</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @id = 'f_tenDanhMuc' and @name = 'tenDanhMuc' and @placeholder = 'VD: Thuốc nhỏ mắt, Dung dịch súc miệng']</value>
+      <webElementGuid>d7a2b473-34d8-4cf4-aa49-781f770210a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,3 +17,28 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('TC_QLTVDM_33/Page_PharmaCare  Nh thuc trc tuyn/a_Xem tt c'))
+
+WebUI.click(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/input_priceInputMax'))
+
+WebUI.doubleClick(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/input_priceInputMax'))
+
+WebUI.click(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/input_priceInputMax'))
+
+WebUI.setText(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/input_priceMax'), '34000')
+
+WebUI.click(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/button_Lc sn phm'))
+
+WebUI.rightClick(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/img_Thuc Actadol 500 Medipharco'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTVDM_33/Page_Danh sch sn phm thuc  PharmaCare/img_Thuc Actadol 500 Medipharco'), 
+    0)
+
+WebUI.closeBrowser()
+

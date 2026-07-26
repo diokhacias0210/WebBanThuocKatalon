@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_26 Tìm kiếm với từ khóa không khớp bất kỳ sản phẩm nào trong trang Quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e0146eeb-33b5-4ddd-a161-dd0070433d13</testCaseGuid>
-</TestCaseEntity>

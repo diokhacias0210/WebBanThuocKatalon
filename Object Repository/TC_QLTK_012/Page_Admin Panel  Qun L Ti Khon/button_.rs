@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_</name>
+   <tag></tag>
+   <elementGuidId>c999fbd0-fc9b-4614-a5ad-fa7eb19e0203</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#modalRole .modal-head button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'modalRole']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-head ')]//button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;×&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b3fae33c-0a12-4cad-9d30-715ebbe0446d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-close</value>
+      <webElementGuid>2e3c6010-9b0c-44d5-b3b1-79d28d548df7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-close</name>
+      <type>Main</type>
+      <value>modalRole</value>
+      <webElementGuid>94b871a3-041f-4c1b-9428-9953a6538052</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>×</value>
+      <webElementGuid>ac99f410-b7ce-43a5-b4a7-65b44d492a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-90d58d598b5635b8f4a8a21a32d4dcfd</value>
+      <webElementGuid>03c6645e-556c-4fa5-b3a8-93b4670b314f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'modalRole']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-head ')]//button</value>
+      <webElementGuid>19cdc2ac-4f74-4e75-b69f-21a6105a4bb9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'modalRole']//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' modal-head ')]//button</value>
+      <webElementGuid>cee19190-194c-4154-9b31-05cfd8bf57c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = '×' or . = '×')]</value>
+      <webElementGuid>c662d49a-de52-455b-9af7-3fed561779fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

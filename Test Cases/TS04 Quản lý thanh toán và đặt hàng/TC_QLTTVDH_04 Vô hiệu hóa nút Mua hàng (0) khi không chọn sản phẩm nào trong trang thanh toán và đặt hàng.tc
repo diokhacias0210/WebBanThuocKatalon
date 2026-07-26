@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTTVDH_04 Vô hiệu hóa nút Mua hàng (0) khi không chọn sản phẩm nào trong trang thanh toán và đặt hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f67ad944-5b24-4c53-99c0-d37db2c1587f</testCaseGuid>
-</TestCaseEntity>

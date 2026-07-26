@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_31 Giảm số lượng mua bằng cách nhấn nút Trừ - trong trang chi tiết</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f2dbef62-c1a7-4ca2-bf13-e9899bc41952</testCaseGuid>
-</TestCaseEntity>

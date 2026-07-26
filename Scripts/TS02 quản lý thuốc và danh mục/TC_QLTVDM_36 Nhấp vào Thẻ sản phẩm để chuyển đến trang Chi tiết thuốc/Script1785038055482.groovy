@@ -17,3 +17,18 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('TC_QLTVDM_36/Page_PharmaCare  Nh thuc trc tuyn/img_Thuc Enervon United'))
+
+WebUI.rightClick(findTestObject('TC_QLTVDM_36/Page_Thuc Enervon United  PharmaCare/div_M s l thucLO-2026-43'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTVDM_36/Page_Thuc Enervon United  PharmaCare/div_M s l thucLO-2026-43'), 
+    0)
+
+WebUI.closeBrowser()
+

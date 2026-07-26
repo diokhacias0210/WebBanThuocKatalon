@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_f_idThuoc</name>
+   <tag></tag>
+   <elementGuidId>2543dd15-bf51-4333-bac9-e0ab8805c204</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#f_idThuoc</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'f_idThuoc']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#f_idThuoc</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f1e63dc2-db78-4f80-8048-541ece6f675c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>f_idThuoc</value>
+      <webElementGuid>0539a85e-af7f-4d8c-8c71-9f95f4183735</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>idThuoc</value>
+      <webElementGuid>c0aa4e91-6d0c-47a2-8410-0484f6b1db37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>— Chọn thuốc —Thuốc Ameflu Không Gây Buồn Ngủ OPV (Vỉ)Bột Glotadol 250 Abbott (Gói)Viên sủi Tovalgan Ef Trường Thọ Pharma (Vỉ)Viên nén Paracetamol Stada 500mg (Vỉ)Thuốc Actadol 500 Medipharco (Vỉ)Thuốc Cardioton Lipa Pharma (Vỉ)Thuốc Myhemo 305mg Reliv (Vỉ)Thuốc Enervon United (Vỉ)Dung dịch uống Pokemine 50mg Medisun (Ống)Siro Ceelin + Z United (Hộp)Thuốc Nodict 50mg Sun Pharma (Vỉ)Thuốc Methionin 250mg Domesco (Hộp)Bột pha tiêm và dung môi Glumidtab 600 Pharbaco (Hộp)Thuốc tiêm Vinluta 600 Vinphaco (Hộp)Viên nhai OH NO Việt Phúc (Lọ)Thuốc Hoàn An Thần Traphaco (Vỉ)Thuốc Dưỡng Tâm An Thần Danapha (Hộp)Dung dịch uống Laferine 80mg Cho-A (Ống)Thuốc chống say tàu xe Momvina Hadiphar (Vỉ)Viên an thần Mimosa OPC (Vỉ)Ống hít Sao Vàng Danapha (Ống)Nước súc miệng Thái Dương hương bạc hà (Chai)Thuốc nhỏ mắt V.Rohto Vitamin (Chai)Thuốc viêm xoang Abipha Cap (Vỉ)Dung dịch xịt mũi Otrera 0.1% An Thiên (Hộp)Thuốc rơ miệng Nyst 25.000IU OPC (Gói)Viên nén Mebendazole 500mg Mekophar (hộp)Thuốc Fugacar 500mg Janssen (Hộp)Thuốc mỡ bôi da Agiclovir 5% Agimexpharm (Tuýp)Thuốc Fucagi 500mg Agimexpharm (Hộp)Cao dán Salonsip Gel - Patch Hisamitsu (Gói)Cao dán Salonpas Diclofenac Patch Hisamitsu (Gói)Dầu Khuynh Diệp OPC (Chai)Dầu gừng Thái Dương (Chai)Cao Sao Vàng Danapha (Hộp)Thuốc Histalong - L 5mg Dr. Reddy (Vỉ)Thuốc Allerphast 180mg Mebiphar (Vỉ)Thuốc Clorpheniramin 4mg Khapharco (Vỉ)Thuốc Exopadin 60mg Trường Thọ (Vỉ)Thuốc Cetirizin 10mg  (Hộp)Dung dịch dùng ngoài Xanh Methylen 1%  (Lọ)Dung dịch LeoPovidone 10%  (Chai)Thuốc bôi ngoài da Biroxime 1%  (Tuýp)Dung dịch PVP - IODINE 10% Danapha (Chai)Kem bôi da Ketoconazol 2% Medipharco (Hộp)Viên ngậm Strepsils Throat Irritation &amp; Cough Reckitt Benckiser (Vỉ)Thuốc ho người lớn OPC (Chai)Thuốc Tocemux (Hộp)Siro Deslotid OPV (Hộp)Siro HoAstex-S 90ml (Chai)</value>
+      <webElementGuid>6836be8b-8ec1-4259-98cd-89da521d06a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e5cb793ccdbcf72c27ae8e2acf4b824c</value>
+      <webElementGuid>068453a1-9319-460b-aa9b-2f5e04ab3115</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_idThuoc']</value>
+      <webElementGuid>9976a6d0-3ba5-4437-8f04-7a2820511e71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_idThuoc']</value>
+      <webElementGuid>32b1623b-3c04-4477-8f9b-30d1e9e66070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'f_idThuoc' and @name = 'idThuoc' and (text() = '— Chọn thuốc —Thuốc Ameflu Không Gây Buồn Ngủ OPV (Vỉ)Bột Glotadol 250 Abbott (Gói)Viên sủi Tovalgan Ef Trường Thọ Pharma (Vỉ)Viên nén Paracetamol Stada 500mg (Vỉ)Thuốc Actadol 500 Medipharco (Vỉ)Thuốc Cardioton Lipa Pharma (Vỉ)Thuốc Myhemo 305mg Reliv (Vỉ)Thuốc Enervon United (Vỉ)Dung dịch uống Pokemine 50mg Medisun (Ống)Siro Ceelin + Z United (Hộp)Thuốc Nodict 50mg Sun Pharma (Vỉ)Thuốc Methionin 250mg Domesco (Hộp)Bột pha tiêm và dung môi Glumidtab 600 Pharbaco (Hộp)Thuốc tiêm Vinluta 600 Vinphaco (Hộp)Viên nhai OH NO Việt Phúc (Lọ)Thuốc Hoàn An Thần Traphaco (Vỉ)Thuốc Dưỡng Tâm An Thần Danapha (Hộp)Dung dịch uống Laferine 80mg Cho-A (Ống)Thuốc chống say tàu xe Momvina Hadiphar (Vỉ)Viên an thần Mimosa OPC (Vỉ)Ống hít Sao Vàng Danapha (Ống)Nước súc miệng Thái Dương hương bạc hà (Chai)Thuốc nhỏ mắt V.Rohto Vitamin (Chai)Thuốc viêm xoang Abipha Cap (Vỉ)Dung dịch xịt mũi Otrera 0.1% An Thiên (Hộp)Thuốc rơ miệng Nyst 25.000IU OPC (Gói)Viên nén Mebendazole 500mg Mekophar (hộp)Thuốc Fugacar 500mg Janssen (Hộp)Thuốc mỡ bôi da Agiclovir 5% Agimexpharm (Tuýp)Thuốc Fucagi 500mg Agimexpharm (Hộp)Cao dán Salonsip Gel - Patch Hisamitsu (Gói)Cao dán Salonpas Diclofenac Patch Hisamitsu (Gói)Dầu Khuynh Diệp OPC (Chai)Dầu gừng Thái Dương (Chai)Cao Sao Vàng Danapha (Hộp)Thuốc Histalong - L 5mg Dr. Reddy (Vỉ)Thuốc Allerphast 180mg Mebiphar (Vỉ)Thuốc Clorpheniramin 4mg Khapharco (Vỉ)Thuốc Exopadin 60mg Trường Thọ (Vỉ)Thuốc Cetirizin 10mg  (Hộp)Dung dịch dùng ngoài Xanh Methylen 1%  (Lọ)Dung dịch LeoPovidone 10%  (Chai)Thuốc bôi ngoài da Biroxime 1%  (Tuýp)Dung dịch PVP - IODINE 10% Danapha (Chai)Kem bôi da Ketoconazol 2% Medipharco (Hộp)Viên ngậm Strepsils Throat Irritation &amp; Cough Reckitt Benckiser (Vỉ)Thuốc ho người lớn OPC (Chai)Thuốc Tocemux (Hộp)Siro Deslotid OPV (Hộp)Siro HoAstex-S 90ml (Chai)' or . = '— Chọn thuốc —Thuốc Ameflu Không Gây Buồn Ngủ OPV (Vỉ)Bột Glotadol 250 Abbott (Gói)Viên sủi Tovalgan Ef Trường Thọ Pharma (Vỉ)Viên nén Paracetamol Stada 500mg (Vỉ)Thuốc Actadol 500 Medipharco (Vỉ)Thuốc Cardioton Lipa Pharma (Vỉ)Thuốc Myhemo 305mg Reliv (Vỉ)Thuốc Enervon United (Vỉ)Dung dịch uống Pokemine 50mg Medisun (Ống)Siro Ceelin + Z United (Hộp)Thuốc Nodict 50mg Sun Pharma (Vỉ)Thuốc Methionin 250mg Domesco (Hộp)Bột pha tiêm và dung môi Glumidtab 600 Pharbaco (Hộp)Thuốc tiêm Vinluta 600 Vinphaco (Hộp)Viên nhai OH NO Việt Phúc (Lọ)Thuốc Hoàn An Thần Traphaco (Vỉ)Thuốc Dưỡng Tâm An Thần Danapha (Hộp)Dung dịch uống Laferine 80mg Cho-A (Ống)Thuốc chống say tàu xe Momvina Hadiphar (Vỉ)Viên an thần Mimosa OPC (Vỉ)Ống hít Sao Vàng Danapha (Ống)Nước súc miệng Thái Dương hương bạc hà (Chai)Thuốc nhỏ mắt V.Rohto Vitamin (Chai)Thuốc viêm xoang Abipha Cap (Vỉ)Dung dịch xịt mũi Otrera 0.1% An Thiên (Hộp)Thuốc rơ miệng Nyst 25.000IU OPC (Gói)Viên nén Mebendazole 500mg Mekophar (hộp)Thuốc Fugacar 500mg Janssen (Hộp)Thuốc mỡ bôi da Agiclovir 5% Agimexpharm (Tuýp)Thuốc Fucagi 500mg Agimexpharm (Hộp)Cao dán Salonsip Gel - Patch Hisamitsu (Gói)Cao dán Salonpas Diclofenac Patch Hisamitsu (Gói)Dầu Khuynh Diệp OPC (Chai)Dầu gừng Thái Dương (Chai)Cao Sao Vàng Danapha (Hộp)Thuốc Histalong - L 5mg Dr. Reddy (Vỉ)Thuốc Allerphast 180mg Mebiphar (Vỉ)Thuốc Clorpheniramin 4mg Khapharco (Vỉ)Thuốc Exopadin 60mg Trường Thọ (Vỉ)Thuốc Cetirizin 10mg  (Hộp)Dung dịch dùng ngoài Xanh Methylen 1%  (Lọ)Dung dịch LeoPovidone 10%  (Chai)Thuốc bôi ngoài da Biroxime 1%  (Tuýp)Dung dịch PVP - IODINE 10% Danapha (Chai)Kem bôi da Ketoconazol 2% Medipharco (Hộp)Viên ngậm Strepsils Throat Irritation &amp; Cough Reckitt Benckiser (Vỉ)Thuốc ho người lớn OPC (Chai)Thuốc Tocemux (Hộp)Siro Deslotid OPV (Hộp)Siro HoAstex-S 90ml (Chai)')]</value>
+      <webElementGuid>b8c44bb3-8019-4b9b-a37a-64fb14a2123d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_42 Chức năng nút Quay lại danh sách sản phẩm trang chi tiết thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>8305de51-9f50-4269-808b-813ddf21b488</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_menuToggle</name>
+   <tag></tag>
+   <elementGuidId>b1d735eb-4618-4e1b-824b-065772ef061f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#menuToggle</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'menuToggle']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#menuToggle</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b5181077-b0c3-4e48-902b-fb883504a4de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-toggle</value>
+      <webElementGuid>4785a6b9-1e37-4def-a5dd-e03082ef0185</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menuToggle</value>
+      <webElementGuid>6ea605c2-def3-4e23-b3ed-279142532779</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                 PharmaCare            </value>
+      <webElementGuid>4f73d6f7-8b66-4fb5-b025-472971f30946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-70d3d28a884e4ea4b5f9c7403969a090</value>
+      <webElementGuid>645e1250-da8c-4990-86b1-9cda43dbc52d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'menuToggle']</value>
+      <webElementGuid>be55e7d0-5259-4ee5-990b-4d01e98fec06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'menuToggle']</value>
+      <webElementGuid>2d654a07-8585-40fe-ae6c-6a31ebd45070</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'menuToggle' and (text() = '
+                 PharmaCare            ' or . = '
+                 PharmaCare            ')]</value>
+      <webElementGuid>0b821bf9-cbd7-4d24-8764-26b115699e93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

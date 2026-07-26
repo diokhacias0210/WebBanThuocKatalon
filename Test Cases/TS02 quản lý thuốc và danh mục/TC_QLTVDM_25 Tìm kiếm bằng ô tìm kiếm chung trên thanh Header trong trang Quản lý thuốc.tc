@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_25 Tìm kiếm bằng ô tìm kiếm chung trên thanh Header trong trang Quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>343605b1-96c0-4eef-acaf-a4b82b812455</testCaseGuid>
-</TestCaseEntity>

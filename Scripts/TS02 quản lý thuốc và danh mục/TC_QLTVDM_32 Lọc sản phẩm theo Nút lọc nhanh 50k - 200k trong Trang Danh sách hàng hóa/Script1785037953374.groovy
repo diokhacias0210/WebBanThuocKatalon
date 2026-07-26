@@ -17,3 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/')
+
+WebUI.maximizeWindow()
+
+WebUI.click(findTestObject('TC_QLTVDM_32/Page_PharmaCare  Nh thuc trc tuyn/a_Xem tt c'))
+
+WebUI.click(findTestObject('TC_QLTVDM_32/Page_Danh sch sn phm thuc  PharmaCare/div_50k - 200k'))
+
+WebUI.click(findTestObject('TC_QLTVDM_32/Page_Danh sch sn phm thuc  PharmaCare/button_Lc sn phm'))
+
+WebUI.rightClick(findTestObject('TC_QLTVDM_32/Page_Danh sch sn phm thuc  PharmaCare/div_productGrid'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTVDM_32/Page_Danh sch sn phm thuc  PharmaCare/div_productGrid'), 0)
+
+WebUI.closeBrowser()
+

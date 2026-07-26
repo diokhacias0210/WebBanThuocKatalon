@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_03 Hệ thống tự động khóa thuốc khi lô thuốc hết hạn trang Quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5925634c-196c-4ea3-b8f2-0adfe81ce9dd</testCaseGuid>
+</TestCaseEntity>

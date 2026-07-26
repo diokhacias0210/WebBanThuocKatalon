@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textarea_Nhp m t tc dng hoc c trng ca</name>
+   <tag></tag>
+   <elementGuidId>795f453f-4ad4-4a23-96cb-c007c9200cf3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#f_moTa</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id = 'f_moTa']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Nhập mô tả tác dụng hoặc đặc trưng của nhóm thuốc này...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>3c687b78-82ab-4b9f-9620-de57cbbbc1d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>f_moTa</value>
+      <webElementGuid>ac48c0c0-99d0-4c8c-b75c-12243fd7033c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>moTa</value>
+      <webElementGuid>ffecaa20-1183-49ea-9cbb-a9ad6ec2b296</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập mô tả tác dụng hoặc đặc trưng của nhóm thuốc này...</value>
+      <webElementGuid>1b847ef1-98d2-4760-80c5-3f5e633771f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-7fb41615aa251ae6de98a586953d9a96</value>
+      <webElementGuid>6e63a7ff-03f9-4afe-b488-48e58300718b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_moTa']</value>
+      <webElementGuid>25ad10a0-e31a-47a4-bc6e-227a19054bf4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@id = 'f_moTa']</value>
+      <webElementGuid>f7e8ee6b-0ebb-4bea-9797-60ef9ba93629</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@id = 'f_moTa' and @name = 'moTa' and @placeholder = 'Nhập mô tả tác dụng hoặc đặc trưng của nhóm thuốc này...']</value>
+      <webElementGuid>8ea291f0-4e2a-47b5-b8f0-e4671812e827</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
