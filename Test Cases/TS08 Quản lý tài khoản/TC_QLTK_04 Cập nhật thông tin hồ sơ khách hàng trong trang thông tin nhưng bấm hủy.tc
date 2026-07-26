@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTK_04 Cập nhật thông tin hồ sơ khách hàng trong trang thông tin nhưng bấm hủy</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>15bee202-cd4b-41ad-b9aa-b4ce97ba6e24</testCaseGuid>
+</TestCaseEntity>
