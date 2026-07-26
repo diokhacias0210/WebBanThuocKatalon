@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_startDate</name>
+   <name>td_L Vn C</name>
    <tag></tag>
-   <elementGuidId>170ad68a-ffcb-415d-b6aa-136163a2cec9</elementGuidId>
+   <elementGuidId>8f1584c0-df83-402a-911a-92f9d0843d3e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#startDate</value>
+         <value>tr:nth-child(1) td:nth-child(2)</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Lê Văn C' or . = 'Lê Văn C')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@id = 'startDate']</value>
+         <value>//*[(name() = 'tr') and (position() = 1)]//*[(name() = 'td') and (position() = 2)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#startDate</value>
+         <value>internal:role=cell[name=&quot;Lê Văn C&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +32,47 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>d6582fc3-4c82-4bd6-b1d4-2585383672ff</webElementGuid>
+      <value>td</value>
+      <webElementGuid>2640cb5d-9d70-4ceb-a56e-3945abea3a7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>date</value>
-      <webElementGuid>ea85daab-0e94-4e49-b4ff-7cc60819f5b3</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>startDate</value>
-      <webElementGuid>8cd574a5-c903-4bc0-86d1-db60793d1d9f</webElementGuid>
+      <value>Lê Văn C</value>
+      <webElementGuid>b032181a-baa5-4ed2-b5e0-92d0239ea9ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-b538fb1cf2983e899292a65c732bccc1</value>
-      <webElementGuid>e3cad6f9-0e35-456b-9fca-db6d2ac8bbb2</webElementGuid>
+      <value>md5.v1-fe544dd5e4386772510e6cdf3195f0a9</value>
+      <webElementGuid>69d84a0d-ac03-46fe-a930-41958466027f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@id = 'startDate']</value>
-      <webElementGuid>e198e6b5-e83f-49b3-bd1d-a28b0ca87b9c</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[(name() = 'td') and (position() = 2)]</value>
+      <webElementGuid>9136e983-821e-4c34-89d9-23cb25aab727</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@id = 'startDate']</value>
-      <webElementGuid>8436d6d3-e933-444b-ada5-9f2e3145a55e</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 1)]//*[(name() = 'td') and (position() = 2)]</value>
+      <webElementGuid>2b42bc30-7d3c-4557-8f4b-4d34fcff4919</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'date' and @id = 'startDate']</value>
-      <webElementGuid>d60643ef-a133-4365-ae37-b20560564753</webElementGuid>
+      <value>//td[(text() = 'Lê Văn C' or . = 'Lê Văn C')]</value>
+      <webElementGuid>8a32e4de-71cc-4870-b5c9-3640400730de</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

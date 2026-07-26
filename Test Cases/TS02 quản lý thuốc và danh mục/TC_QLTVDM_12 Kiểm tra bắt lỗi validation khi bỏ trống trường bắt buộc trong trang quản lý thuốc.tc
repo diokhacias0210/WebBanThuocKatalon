@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_12 Kiểm tra bắt lỗi validation khi bỏ trống trường bắt buộc trong trang quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e5f50bca-ee4a-45e0-81a1-f4d2408af0ac</testCaseGuid>
-</TestCaseEntity>

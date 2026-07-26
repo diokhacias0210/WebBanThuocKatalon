@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_10 Sử dụng nút Đặt lại để xóa tất cả bộ lọc về mặc định trong trang quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>74e4c0ce-ca1c-4d92-9134-22dc3fcd9c0e</testCaseGuid>
-</TestCaseEntity>

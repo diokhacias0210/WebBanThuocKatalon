@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>button_btnResetFilter</name>
    <tag></tag>
-   <elementGuidId>882d54d6-fda6-42d9-a21e-6af9cd61b453</elementGuidId>
+   <elementGuidId>200b4209-9618-48d1-a181-6edc8345aeb2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>#btnResetFilter</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'btnResetFilter' and (text() = 'Đặt lại' or . = 'Đặt lại')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[@id = 'btnResetFilter']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=button[name=&quot;Đặt lại&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +32,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>df5ee837-3e17-400d-9632-021a34b033c2</webElementGuid>
+      <value>button</value>
+      <webElementGuid>04493ad0-8622-42cd-bd47-8df342c29188</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item </value>
-      <webElementGuid>6cc7322c-31d7-4969-af05-d342a2f5b7cb</webElementGuid>
+      <value>btn btn-ghost</value>
+      <webElementGuid>d27d4cd1-99a8-417b-8b90-bf516000879a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>119fc367-240a-4916-8230-ad710c46173c</webElementGuid>
+      <value>btnResetFilter</value>
+      <webElementGuid>1a2aba86-52b2-4c11-a114-a351b77ceac9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            
-            Tổng quan
-        </value>
-      <webElementGuid>ac1bd65f-ff7c-4525-b89d-981f595a679c</webElementGuid>
+      <value>Đặt lại</value>
+      <webElementGuid>a278dc6f-be98-40d5-95ad-606f98bc17fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5edb3ba5-fff2-4470-bbe0-5d2a1fcedff0</webElementGuid>
+      <value>md5.v1-cbeb48adc72f1ac6d8a58a48d41886c9</value>
+      <webElementGuid>3179fa6e-d978-4ca6-afc0-4bd9be4fe859</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>a63731bf-bbda-4b31-b67f-ff73f706ea76</webElementGuid>
+      <value>//*[@id = 'btnResetFilter']</value>
+      <webElementGuid>99789e16-0ccd-4e00-9f86-6af2fe49819e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>82fdefb8-0ba7-4da3-b651-92ba3048910f</webElementGuid>
+      <value>//*[@id = 'btnResetFilter']</value>
+      <webElementGuid>68e00509-5a14-4ef6-9c71-e6679b4c1116</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
-            
-            Tổng quan
-        ' or . = '
-            
-            Tổng quan
-        ')]</value>
-      <webElementGuid>5f744bd0-bc72-45dd-8f18-0314cf94ff30</webElementGuid>
+      <value>//button[@id = 'btnResetFilter' and (text() = 'Đặt lại' or . = 'Đặt lại')]</value>
+      <webElementGuid>a86fe0c0-5c5d-4eb6-830d-fd1f7a1627e3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

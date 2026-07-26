@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Qun l ti khon</name>
+   <name>input_Nhp s in thoi</name>
    <tag></tag>
-   <elementGuidId>e9c0a761-904a-419c-aeff-7b1d5e8b3102</elementGuidId>
+   <elementGuidId>8378908f-7e35-4cd5-9910-b467e631969f</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/quanLyTaiKhoan&quot;]</value>
+         <value>[name=&quot;soDienThoai&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@type = 'tel' and @name = 'soDienThoai' and @placeholder = 'Nhập số điện thoại']</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
+         <value>//*[@name = 'soDienThoai']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Quản lý tài khoản&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nhập số điện thoại&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +32,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>7def0606-0ffa-4bb5-aeb3-ec98be485c35</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>nav-item active</value>
-      <webElementGuid>7d4ce9e2-b714-4af2-a6a4-b30a4044b190</webElementGuid>
+      <value>input</value>
+      <webElementGuid>c116ed42-00ab-4711-b8c8-ad5a85eea3a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/quanLyTaiKhoan</value>
-      <webElementGuid>49ca6ac4-5622-41ea-b0e6-34ad3b69ac86</webElementGuid>
+      <value>tel</value>
+      <webElementGuid>11945b32-0575-4146-917d-eb72b74f20fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>
-            
-            Quản lý tài khoản
-        </value>
-      <webElementGuid>e171fd6a-9ed2-466e-a6ea-a573d2272694</webElementGuid>
+      <value>soDienThoai</value>
+      <webElementGuid>3b380938-e029-4543-9dce-e2ade3cb46a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập số điện thoại</value>
+      <webElementGuid>7f513843-0583-4278-91cf-3f6166f77d93</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-ea320befeb13e89272d2febcd748f3ef</value>
-      <webElementGuid>485cd28e-1c6d-4e30-992c-638b4105f648</webElementGuid>
+      <value>md5.v1-c1b08efb1d0b16ffb237444a9f028e4a</value>
+      <webElementGuid>f60982f2-4c09-4e2f-a048-b87dd5983605</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
-      <webElementGuid>74d93031-a21e-43da-89ba-db548f1f5728</webElementGuid>
+      <value>//*[@name = 'soDienThoai']</value>
+      <webElementGuid>39a73226-4504-4b57-baee-1e9722c66a08</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
-      <webElementGuid>0e704d27-8641-4c3a-a896-24b96b532e1b</webElementGuid>
+      <value>//*[@name = 'soDienThoai']</value>
+      <webElementGuid>09eeba8e-b935-4a01-b9be-80cd4a92e4e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan' and (text() = '
-            
-            Quản lý tài khoản
-        ' or . = '
-            
-            Quản lý tài khoản
-        ')]</value>
-      <webElementGuid>7751a9e2-2b89-498b-bfb7-8049921d8adf</webElementGuid>
+      <value>//input[@type = 'tel' and @name = 'soDienThoai' and @placeholder = 'Nhập số điện thoại']</value>
+      <webElementGuid>fa7f4bee-ecf2-423f-a7e6-813d711d82af</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

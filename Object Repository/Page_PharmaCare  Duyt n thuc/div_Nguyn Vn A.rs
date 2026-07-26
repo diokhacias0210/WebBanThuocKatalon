@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>div_Nguyn Vn A</name>
    <tag></tag>
-   <elementGuidId>882d54d6-fda6-42d9-a21e-6af9cd61b453</elementGuidId>
+   <elementGuidId>9bb8ad55-4f2e-4128-b41e-d8f8cf0b64ad</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>div.cell-strong</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:text=&quot;Nguyễn Văn A&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>df5ee837-3e17-400d-9632-021a34b033c2</webElementGuid>
+      <value>div</value>
+      <webElementGuid>f9f5849b-4ea6-487f-b3fb-bb646effa86a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item </value>
-      <webElementGuid>6cc7322c-31d7-4969-af05-d342a2f5b7cb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>119fc367-240a-4916-8230-ad710c46173c</webElementGuid>
+      <value>cell-strong</value>
+      <webElementGuid>e578e790-fa96-488e-b2ef-81fdab85628a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            
-            Tổng quan
-        </value>
-      <webElementGuid>ac1bd65f-ff7c-4525-b89d-981f595a679c</webElementGuid>
+      <value>Nguyễn Văn A</value>
+      <webElementGuid>aa11a950-5c68-4314-b646-e43c4322a692</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5edb3ba5-fff2-4470-bbe0-5d2a1fcedff0</webElementGuid>
+      <value>md5.v1-b4f17195151442f178d3e7ea441dbfd2</value>
+      <webElementGuid>8c582091-b2cc-42f0-86fb-96adc0ef570b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>a63731bf-bbda-4b31-b67f-ff73f706ea76</webElementGuid>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ')]</value>
+      <webElementGuid>bb780761-cca0-4acf-b9c7-02ac2967c26f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>82fdefb8-0ba7-4da3-b651-92ba3048910f</webElementGuid>
+      <value>//div[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ')]</value>
+      <webElementGuid>13180b7f-b63f-4617-9f26-ad4dea58d4a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
-            
-            Tổng quan
-        ' or . = '
-            
-            Tổng quan
-        ')]</value>
-      <webElementGuid>5f744bd0-bc72-45dd-8f18-0314cf94ff30</webElementGuid>
+      <value>//div[(text() = 'Nguyễn Văn A' or . = 'Nguyễn Văn A')]</value>
+      <webElementGuid>9cdc49bb-3ac6-403b-83c7-9f6615c0ac2a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

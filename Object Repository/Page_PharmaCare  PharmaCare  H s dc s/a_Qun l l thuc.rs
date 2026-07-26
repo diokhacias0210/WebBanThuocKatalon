@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>a_Qun l l thuc</name>
    <tag></tag>
-   <elementGuidId>882d54d6-fda6-42d9-a21e-6af9cd61b453</elementGuidId>
+   <elementGuidId>12c1bafe-a300-4d17-b3d3-215989d68abe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/duocSi\/quanLyLo&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/quanLyLo']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=link[name=&quot;Quản lý lô thuốc&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>df5ee837-3e17-400d-9632-021a34b033c2</webElementGuid>
+      <webElementGuid>19e966bd-cf2d-4912-a806-ada2963902f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +37,15 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item </value>
-      <webElementGuid>6cc7322c-31d7-4969-af05-d342a2f5b7cb</webElementGuid>
+      <webElementGuid>0ae8598a-c88d-4a11-a999-3fd32599f47f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>119fc367-240a-4916-8230-ad710c46173c</webElementGuid>
+      <value>http://localhost/BanThuoc/public/duocSi/quanLyLo</value>
+      <webElementGuid>98b804f7-9b1e-4b40-a2b2-36f7453efddb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,46 +54,46 @@
       <type>Main</type>
       <value>
             
-            Tổng quan
+            Quản lý lô thuốc
         </value>
-      <webElementGuid>ac1bd65f-ff7c-4525-b89d-981f595a679c</webElementGuid>
+      <webElementGuid>0cf301c6-8056-4961-8ea1-04358fd0612d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5edb3ba5-fff2-4470-bbe0-5d2a1fcedff0</webElementGuid>
+      <value>md5.v1-bb0c07fcfc4a43f34575c62c1093bbdd</value>
+      <webElementGuid>3cb3f3aa-4118-4545-8c9c-8b74547eaaa1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>a63731bf-bbda-4b31-b67f-ff73f706ea76</webElementGuid>
+      <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/quanLyLo']</value>
+      <webElementGuid>ed242c66-578a-4948-a197-78bebd71fc00</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>82fdefb8-0ba7-4da3-b651-92ba3048910f</webElementGuid>
+      <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/quanLyLo']</value>
+      <webElementGuid>5e44ba20-5444-4710-b260-822a5c8149f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
+      <value>//a[@href = 'http://localhost/BanThuoc/public/duocSi/quanLyLo' and (text() = '
             
-            Tổng quan
+            Quản lý lô thuốc
         ' or . = '
             
-            Tổng quan
+            Quản lý lô thuốc
         ')]</value>
-      <webElementGuid>5f744bd0-bc72-45dd-8f18-0314cf94ff30</webElementGuid>
+      <webElementGuid>1220a0c5-1b3e-406c-8afd-8a25128f76b0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

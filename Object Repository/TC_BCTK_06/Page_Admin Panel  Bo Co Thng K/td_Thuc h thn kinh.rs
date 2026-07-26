@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>td_Thuc h thn kinh</name>
    <tag></tag>
-   <elementGuidId>882d54d6-fda6-42d9-a21e-6af9cd61b453</elementGuidId>
+   <elementGuidId>a3b336be-4c1a-4718-bd6b-cce1d27add71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>tr:nth-child(5) td.cell-strong:nth-child(3)</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=cell[name=&quot;Thuốc hệ thần kinh&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>df5ee837-3e17-400d-9632-021a34b033c2</webElementGuid>
+      <value>td</value>
+      <webElementGuid>40a0b183-442a-4264-b1bb-f5b12c7007d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item </value>
-      <webElementGuid>6cc7322c-31d7-4969-af05-d342a2f5b7cb</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>href</name>
-      <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>119fc367-240a-4916-8230-ad710c46173c</webElementGuid>
+      <value>cell-strong</value>
+      <webElementGuid>089ffd88-46c2-49c6-acb8-0f789572b9b1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            
-            Tổng quan
-        </value>
-      <webElementGuid>ac1bd65f-ff7c-4525-b89d-981f595a679c</webElementGuid>
+      <value>Thuốc hệ thần kinh</value>
+      <webElementGuid>18c4d5f9-daab-4f47-9ec9-8b1780d0e8ae</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5edb3ba5-fff2-4470-bbe0-5d2a1fcedff0</webElementGuid>
+      <value>md5.v1-fdc2e0fc7e81f8e65dc4b5dbde9db32c</value>
+      <webElementGuid>12339272-b17a-4d59-b65e-5b740a20d721</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>a63731bf-bbda-4b31-b67f-ff73f706ea76</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
+      <webElementGuid>612c3df2-28c5-4622-9135-948a31b7638a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>82fdefb8-0ba7-4da3-b651-92ba3048910f</webElementGuid>
+      <value>//*[(name() = 'tr') and (position() = 5)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
+      <webElementGuid>def6f20d-b613-4826-a77b-bf0b2ab64aed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
-            
-            Tổng quan
-        ' or . = '
-            
-            Tổng quan
-        ')]</value>
-      <webElementGuid>5f744bd0-bc72-45dd-8f18-0314cf94ff30</webElementGuid>
+      <value>//td[(text() = 'Thuốc hệ thần kinh' or . = 'Thuốc hệ thần kinh')]</value>
+      <webElementGuid>cb9622d2-0ccc-42ee-9cc5-ceb228791ae3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

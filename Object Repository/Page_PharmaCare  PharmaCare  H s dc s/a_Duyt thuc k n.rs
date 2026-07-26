@@ -1,24 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>a_Duyt thuc k n</name>
    <tag></tag>
-   <elementGuidId>882d54d6-fda6-42d9-a21e-6af9cd61b453</elementGuidId>
+   <elementGuidId>b4294212-f94b-49b2-8241-d4b6ab65c081</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/duocSi\/duyetDon&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/duyetDon' and (text() = '
+            
+            Duyệt thuốc kê đơn
+            0
+        ' or . = '
+            
+            Duyệt thuốc kê đơn
+            0
+        ')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/duyetDon']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=link[name=&quot;Duyệt thuốc kê đơn&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +41,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>df5ee837-3e17-400d-9632-021a34b033c2</webElementGuid>
+      <webElementGuid>e73c402e-49f9-430c-b08b-1405b384aad5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,15 +49,15 @@
       <name>class</name>
       <type>Main</type>
       <value>nav-item </value>
-      <webElementGuid>6cc7322c-31d7-4969-af05-d342a2f5b7cb</webElementGuid>
+      <webElementGuid>952a8c70-cb1a-469b-bfb0-50b4183739dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>119fc367-240a-4916-8230-ad710c46173c</webElementGuid>
+      <value>http://localhost/BanThuoc/public/duocSi/duyetDon</value>
+      <webElementGuid>5a136e6e-f6e3-42be-8d82-76ffc558f49c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,46 +66,49 @@
       <type>Main</type>
       <value>
             
-            Tổng quan
+            Duyệt thuốc kê đơn
+            0
         </value>
-      <webElementGuid>ac1bd65f-ff7c-4525-b89d-981f595a679c</webElementGuid>
+      <webElementGuid>89f1caa2-ae4a-401a-b19b-e014e7916eb2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5edb3ba5-fff2-4470-bbe0-5d2a1fcedff0</webElementGuid>
+      <value>md5.v1-74c0f0cd4d3632f6ad4b10dfc3e1b25b</value>
+      <webElementGuid>cf28f275-f78c-488d-ab21-00c532de6e40</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>a63731bf-bbda-4b31-b67f-ff73f706ea76</webElementGuid>
+      <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/duyetDon']</value>
+      <webElementGuid>080506be-9e52-4261-99ae-c9eac157576e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>82fdefb8-0ba7-4da3-b651-92ba3048910f</webElementGuid>
+      <value>//*[@href = 'http://localhost/BanThuoc/public/duocSi/duyetDon']</value>
+      <webElementGuid>c8e6813e-78a7-4354-871f-0d2bff0cbf17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
+      <value>//a[@href = 'http://localhost/BanThuoc/public/duocSi/duyetDon' and (text() = '
             
-            Tổng quan
+            Duyệt thuốc kê đơn
+            0
         ' or . = '
             
-            Tổng quan
+            Duyệt thuốc kê đơn
+            0
         ')]</value>
-      <webElementGuid>5f744bd0-bc72-45dd-8f18-0314cf94ff30</webElementGuid>
+      <webElementGuid>9666ad56-783b-413c-be8e-4bf9df61cac0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

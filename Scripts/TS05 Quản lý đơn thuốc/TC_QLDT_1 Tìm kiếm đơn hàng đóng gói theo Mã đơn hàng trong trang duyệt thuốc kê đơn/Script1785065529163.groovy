@@ -17,3 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('New Folder (1)/Page_PharmaCare/input_Nhp s in thoi'), '0911234567')
+
+WebUI.setEncryptedText(findTestObject('New Folder (1)/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('New Folder (1)/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('New Folder (1)/Page_PharmaCare  PharmaCare  H s dc s/a_Duyt thuc k n'))
+
+WebUI.setText(findTestObject('New Folder (1)/Page_PharmaCare  Duyt n thuc/input_Tm theo m yu cu hoc tn khch hng'), 'lê văn c')
+
+WebUI.rightClick(findTestObject('New Folder (1)/Page_PharmaCare  Duyt n thuc/div_L Vn C'))
+
+WebUI.assertElementPresent(findTestObject('New Folder (1)/Page_PharmaCare  Duyt n thuc/div_L Vn C'), 0)
+
