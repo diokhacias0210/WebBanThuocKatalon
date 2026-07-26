@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_11 Thêm mới thuốc thành công với đầy đủ thông tin hợp lệ trong trang quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>16122ca2-c122-459b-9958-c37f5a45c0f2</testCaseGuid>
-</TestCaseEntity>

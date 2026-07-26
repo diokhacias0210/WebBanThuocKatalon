@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTVDM_01 Phân trang danh sách thuốc khi số lượng bản ghi lớn trong trang Quản lý thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>1b3f423a-907d-4516-8720-a41bcd43b239</testCaseGuid>
-</TestCaseEntity>
