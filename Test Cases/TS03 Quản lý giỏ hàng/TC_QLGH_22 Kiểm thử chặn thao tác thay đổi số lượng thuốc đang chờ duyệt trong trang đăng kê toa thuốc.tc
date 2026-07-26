@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_22 Kiểm thử chặn thao tác thay đổi số lượng thuốc đang chờ duyệt trong trang đăng kê toa thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>15864522-3677-451c-b0c6-32439fd4c3b1</testCaseGuid>
-</TestCaseEntity>

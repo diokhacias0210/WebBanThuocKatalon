@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_17 Thêm dòng nhập thuốc mới khi nhấn nút cộng Thêm dòng thuốc khác trong trang đăng kê toa thuốc</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e8d8c3f0-4ef9-42cf-8411-1ba2d06c07c5</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTTVDH_08 Mặc định chọn phương thức Thanh toán khi nhận hàng (COD) trong trang thanh toán và đặt hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>81d9a0fd-5841-41c9-9350-973607361a48</testCaseGuid>
-</TestCaseEntity>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_11 Ràng buộc nút Trừ (-) khi số lượng sản phẩm bằng 1 trong giỏ hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>91b8182e-22fa-45ed-b73b-8a66cb7ef732</testCaseGuid>
-</TestCaseEntity>

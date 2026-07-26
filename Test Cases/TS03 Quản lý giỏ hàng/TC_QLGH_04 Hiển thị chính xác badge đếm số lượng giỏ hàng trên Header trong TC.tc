@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLGH_04 Hiển thị chính xác badge đếm số lượng giỏ hàng trên Header trong TC</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>a7e50820-37b9-4b9a-ae0b-a22261d9b71d</testCaseGuid>
-</TestCaseEntity>

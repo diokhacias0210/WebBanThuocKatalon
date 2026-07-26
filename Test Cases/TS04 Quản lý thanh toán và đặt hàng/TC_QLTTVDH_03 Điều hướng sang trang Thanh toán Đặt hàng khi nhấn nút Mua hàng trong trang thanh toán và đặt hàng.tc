@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTTVDH_03 Điều hướng sang trang Thanh toán Đặt hàng khi nhấn nút Mua hàng trong trang thanh toán và đặt hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>8830f0a4-88bb-4e63-8296-7629cc50cf56</testCaseGuid>
-</TestCaseEntity>

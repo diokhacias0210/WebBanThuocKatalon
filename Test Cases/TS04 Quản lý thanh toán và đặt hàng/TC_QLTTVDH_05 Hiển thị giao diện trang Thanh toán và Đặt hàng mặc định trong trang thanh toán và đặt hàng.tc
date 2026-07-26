@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLTTVDH_05 Hiển thị giao diện trang Thanh toán và Đặt hàng mặc định trong trang thanh toán và đặt hàng</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>73a03df3-f4fd-4191-ac89-747689ad7a09</testCaseGuid>
-</TestCaseEntity>
