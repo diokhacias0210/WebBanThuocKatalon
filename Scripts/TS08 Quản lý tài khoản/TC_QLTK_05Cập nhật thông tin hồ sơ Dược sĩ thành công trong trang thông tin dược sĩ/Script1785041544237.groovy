@@ -17,3 +17,29 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser(null)
+
+WebUI.navigateToUrl('http://localhost/BanThuoc/public/khachHang/xacThuc/dangNhap')
+
+WebUI.maximizeWindow()
+
+WebUI.setText(findTestObject('TC_QLTK_05/Page_PharmaCare/input_Nhp s in thoi'), '0913456789')
+
+WebUI.setEncryptedText(findTestObject('TC_QLTK_05/Page_PharmaCare/input_Nhp mt khu'), 'aeHFOx8jV/A=')
+
+WebUI.click(findTestObject('TC_QLTK_05/Page_PharmaCare/button_ng nhp'))
+
+WebUI.click(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/button_btnEditProfile'))
+
+WebUI.setText(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/input_f_hoTen'), 'Dược sĩ Phạm ')
+
+WebUI.setText(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/input_f_soDienThoai'), '091345678')
+
+WebUI.click(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/button_btnModalCancel'))
+
+WebUI.rightClick(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/div_divider'))
+
+WebUI.assertElementPresent(findTestObject('TC_QLTK_05/Page_PharmaCare  PharmaCare  H s dc s/div_divider'), 0)
+
+WebUI.closeBrowser()
+

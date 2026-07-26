@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng nhp</name>
+   <name>input_f_hoTen</name>
    <tag></tag>
-   <elementGuidId>9579dd36-7b3a-4849-b5a5-6d5f9fb93980</elementGuidId>
+   <elementGuidId>80be21fc-f953-4f70-9684-868507980659</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.btn</value>
+         <value>#f_hoTen</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
+         <value>//*[@id = 'f_hoTen']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đăng nhập&quot;i]</value>
+         <value>#f_hoTen</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,63 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e4a80646-315a-436d-8825-13bf925eb997</webElementGuid>
+      <value>input</value>
+      <webElementGuid>2d151f49-1654-4c5c-a84a-f514390d56bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>428963b0-e817-4be2-9694-b9b32bf0c54b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>32d54eaf-9281-46a8-b8dd-a40035e30454</webElementGuid>
+      <value>text</value>
+      <webElementGuid>68a2dcf0-6556-4f53-88c0-4d654d1ce9b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>a581a77d-e4eb-49c3-bc89-e22bac51af04</webElementGuid>
+      <value>f_hoTen</value>
+      <webElementGuid>9475366c-6ae8-4cef-9ea9-f413d768beb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5889e8f4ab8798d244ecbbc51aa6e324</value>
-      <webElementGuid>74077ffc-e177-4e18-af79-42de687a428e</webElementGuid>
+      <value>md5.v1-41a76aa20da37951d264c3f10122924a</value>
+      <webElementGuid>ef80ab87-3366-4564-8116-b2dbb5a37c21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>0f79b92d-6a0f-42ad-978a-5b3b4f16127f</webElementGuid>
+      <value>//*[@id = 'f_hoTen']</value>
+      <webElementGuid>c4e4577a-7aea-4f72-b308-35e995b6ee08</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>5e09886c-4e3b-4682-88e4-db83b17590fa</webElementGuid>
+      <value>//*[@id = 'f_hoTen']</value>
+      <webElementGuid>6c7b7a91-8b55-4c10-95f6-ffc469572ef6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>3c215c7c-5d89-46da-9c2b-c33887d95866</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'f_hoTen']</value>
+      <webElementGuid>4386d08f-286f-40a0-b767-5a653ecf3f50</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -3,7 +3,7 @@
    <description></description>
    <name>button_btnFilterData</name>
    <tag></tag>
-   <elementGuidId>dabf81ce-0eac-40bb-ba4a-b1ea93eeb0bc</elementGuidId>
+   <elementGuidId>05971293-776c-4e07-a1fd-370c680a2d1d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>17f8dc03-3947-42c0-8bb6-5d025195cc27</webElementGuid>
+      <webElementGuid>a697b179-1863-4c3c-bb2b-ec0793565de3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>btn btn-primary</value>
-      <webElementGuid>e02f5148-1dfe-4303-b1de-d74960d66625</webElementGuid>
+      <webElementGuid>f56e8b9e-f593-4bba-bea0-7c217e258406</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>btnFilterData</value>
-      <webElementGuid>d5fb88dc-81f9-40b5-9207-0fa8384a30ce</webElementGuid>
+      <webElementGuid>06372b7e-cb1d-4f6a-97cc-24ca8a7b47c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <value>
                  Lọc dữ liệu
             </value>
-      <webElementGuid>86dfc145-5356-4e4d-a25f-c79d113cb92a</webElementGuid>
+      <webElementGuid>86a184e8-ff05-4b86-93b8-7059bd30f7fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-f54c367dcd8ed5d5d3237d96cd73f723</value>
-      <webElementGuid>41d9ea5d-7c47-4575-b086-766f978099b4</webElementGuid>
+      <webElementGuid>32fadb69-59c0-4d93-a011-392a2465eae0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'btnFilterData']</value>
-      <webElementGuid>95eb4078-edd7-40f9-8c04-250319704bda</webElementGuid>
+      <webElementGuid>d7c960b8-b18c-4a8e-8eee-f2faa6a048c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'btnFilterData']</value>
-      <webElementGuid>0d29d09d-4f7e-42da-80f9-c9290d79aafc</webElementGuid>
+      <webElementGuid>345b524b-389a-4be4-86ff-425e369272b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -91,6 +91,6 @@
             ' or . = '
                  Lọc dữ liệu
             ')]</value>
-      <webElementGuid>848a98a7-0174-4305-9001-a7f7f810182b</webElementGuid>
+      <webElementGuid>55d99acb-ad65-4989-a2f5-ca0a0758f644</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

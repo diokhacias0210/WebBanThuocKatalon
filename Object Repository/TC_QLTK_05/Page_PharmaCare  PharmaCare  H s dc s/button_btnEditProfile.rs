@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>button_btnEditProfile</name>
    <tag></tag>
-   <elementGuidId>eaf47ead-f987-4b8c-810b-801e7eeece3c</elementGuidId>
+   <elementGuidId>40c60bcc-3aae-4c99-9d25-ee9a34bc3d2e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>#btnEditProfile</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[@id = 'btnEditProfile']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=button[name=&quot;Chỉnh sửa hồ sơ&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,24 +28,24 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>30bb4fa3-961f-4c87-ad9d-3a945706aa83</webElementGuid>
+      <value>button</value>
+      <webElementGuid>3f7f49ca-018e-451c-800c-91a279b4faa6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item </value>
-      <webElementGuid>697c4637-ae4f-4c0a-811a-2fd6743c2e75</webElementGuid>
+      <value>btn btn-primary</value>
+      <webElementGuid>5f99a614-4d39-48ff-9190-749a32381903</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>42d6b293-3964-4818-9d83-57369431034a</webElementGuid>
+      <value>btnEditProfile</value>
+      <webElementGuid>b1dfc92a-1990-490a-9fb2-3aed307b08ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,47 +53,47 @@
       <name>text</name>
       <type>Main</type>
       <value>
-            
-            Tổng quan
-        </value>
-      <webElementGuid>396e353d-2aa0-4f97-be2f-bcca9df0e44d</webElementGuid>
+                
+                Chỉnh sửa hồ sơ
+            </value>
+      <webElementGuid>74623269-bd35-4ec4-8048-c1e171951d23</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5b676abc-d02e-430a-a404-f62184d26943</webElementGuid>
+      <value>md5.v1-cc7b982b038b577c71501ffe2be47bf7</value>
+      <webElementGuid>b6e8c037-b6ad-4474-aa4e-645932444ad6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>6ffedb29-f81e-486a-8f07-4dcc46882f12</webElementGuid>
+      <value>//*[@id = 'btnEditProfile']</value>
+      <webElementGuid>e67c8879-d487-4f97-8c41-3bf3b3ba8508</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>4916524f-6277-4dbf-a3c2-93943033d392</webElementGuid>
+      <value>//*[@id = 'btnEditProfile']</value>
+      <webElementGuid>1f561017-e2ed-4882-9654-c95676e1170c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
-            
-            Tổng quan
-        ' or . = '
-            
-            Tổng quan
-        ')]</value>
-      <webElementGuid>fa0d70b0-5ae8-4b07-b676-39ddd346ad0b</webElementGuid>
+      <value>//button[@id = 'btnEditProfile' and (text() = '
+                
+                Chỉnh sửa hồ sơ
+            ' or . = '
+                
+                Chỉnh sửa hồ sơ
+            ')]</value>
+      <webElementGuid>d187f749-0ed4-4346-bb9d-457af14bb221</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

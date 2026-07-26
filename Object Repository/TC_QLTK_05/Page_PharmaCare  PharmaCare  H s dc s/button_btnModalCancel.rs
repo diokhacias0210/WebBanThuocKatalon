@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Tng quan</name>
+   <name>button_btnModalCancel</name>
    <tag></tag>
-   <elementGuidId>eaf47ead-f987-4b8c-810b-801e7eeece3c</elementGuidId>
+   <elementGuidId>30de4591-3d9f-47ce-b59d-a96c5d8a7c2a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/baoCaoThongKe&quot;]</value>
+         <value>#btnModalCancel</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
+         <value>//*[@id = 'btnModalCancel']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Tổng quan&quot;i]</value>
+         <value>internal:role=button[name=&quot;Hủy&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>30bb4fa3-961f-4c87-ad9d-3a945706aa83</webElementGuid>
+      <value>button</value>
+      <webElementGuid>cf6a242f-e3d7-4a4c-b29d-3e37ba735c98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>nav-item </value>
-      <webElementGuid>697c4637-ae4f-4c0a-811a-2fd6743c2e75</webElementGuid>
+      <value>btn btn-ghost</value>
+      <webElementGuid>1259f68a-937a-4718-a1ff-59095e4306f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>id</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/baoCaoThongKe</value>
-      <webElementGuid>42d6b293-3964-4818-9d83-57369431034a</webElementGuid>
+      <value>btnModalCancel</value>
+      <webElementGuid>b7f2dd85-26c9-4c8e-965a-7531cf69b728</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>
-            
-            Tổng quan
-        </value>
-      <webElementGuid>396e353d-2aa0-4f97-be2f-bcca9df0e44d</webElementGuid>
+      <value>Hủy</value>
+      <webElementGuid>56cbfd4d-2e99-4f16-a20b-fc370f1ab17b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-6a55f3a74ea47eefeff474d94fcb0acf</value>
-      <webElementGuid>5b676abc-d02e-430a-a404-f62184d26943</webElementGuid>
+      <value>md5.v1-5fd198a75e8095af4ec977346a394ec5</value>
+      <webElementGuid>e060b0e9-b2ac-4f94-82f0-9f2e038e2666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>6ffedb29-f81e-486a-8f07-4dcc46882f12</webElementGuid>
+      <value>//*[@id = 'btnModalCancel']</value>
+      <webElementGuid>d169a839-fce7-41fe-bf8b-888cd8da872a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe']</value>
-      <webElementGuid>4916524f-6277-4dbf-a3c2-93943033d392</webElementGuid>
+      <value>//*[@id = 'btnModalCancel']</value>
+      <webElementGuid>ce224405-4631-432e-9fe6-0604bd069530</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/baoCaoThongKe' and (text() = '
-            
-            Tổng quan
-        ' or . = '
-            
-            Tổng quan
-        ')]</value>
-      <webElementGuid>fa0d70b0-5ae8-4b07-b676-39ddd346ad0b</webElementGuid>
+      <value>//button[@id = 'btnModalCancel' and (text() = 'Hủy' or . = 'Hủy')]</value>
+      <webElementGuid>30bd2b46-1ac9-4b7f-a8de-b14a63d49c99</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

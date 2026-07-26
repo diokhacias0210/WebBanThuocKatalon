@@ -3,7 +3,7 @@
    <description></description>
    <name>input_startDate</name>
    <tag></tag>
-   <elementGuidId>2e584b1f-3312-40e2-b45f-014fadc64c9e</elementGuidId>
+   <elementGuidId>22286452-b1c5-4cbb-9d8d-637a4d9798b2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f47a6b5e-aef6-4cd4-a0b6-797674c1aa58</webElementGuid>
+      <webElementGuid>34387256-6fa0-451d-bc44-11cb6e734023</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>e07774fe-4b81-404d-9611-ab34cf4ff827</webElementGuid>
+      <webElementGuid>7bf7ba98-1121-48d4-bc62-ada03e3ea3c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>id</name>
       <type>Main</type>
       <value>startDate</value>
-      <webElementGuid>112887a0-8f8b-4644-8d74-07dc4650b83b</webElementGuid>
+      <webElementGuid>d5f9d85b-dee2-4e43-b644-c4cebe7cc48e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-b538fb1cf2983e899292a65c732bccc1</value>
-      <webElementGuid>990a7426-3c9c-46a0-9104-c915be56e359</webElementGuid>
+      <webElementGuid>dd36cd6a-fe16-4b34-aa69-dc0002fa7709</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@id = 'startDate']</value>
-      <webElementGuid>14da75b3-5dba-49f9-afc1-4a2d7582ed85</webElementGuid>
+      <webElementGuid>28679376-7799-4b9e-89cc-5eeeb3f8f6d0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@id = 'startDate']</value>
-      <webElementGuid>40d598b6-63b5-4b8a-ab9d-747772945892</webElementGuid>
+      <webElementGuid>b3c6034d-785b-4846-96fe-9d4d510214b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,6 +77,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'date' and @id = 'startDate']</value>
-      <webElementGuid>68122ba1-912b-4493-adb8-2a78e4b03bcb</webElementGuid>
+      <webElementGuid>57b799ea-25c6-4358-960d-c361fd88391d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

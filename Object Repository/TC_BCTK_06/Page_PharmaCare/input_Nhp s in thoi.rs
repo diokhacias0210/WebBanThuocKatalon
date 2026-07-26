@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Nhp s in thoi</name>
    <tag></tag>
-   <elementGuidId>a7b62632-eb46-4103-9fe9-d110d4765681</elementGuidId>
+   <elementGuidId>8c9b7d3c-b5d2-4375-a450-bb47f5c756ed</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>84c4c470-4ef3-406a-878a-8394c941b1fb</webElementGuid>
+      <webElementGuid>c7a367a7-9209-4656-9d41-d3e85f561388</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>tel</value>
-      <webElementGuid>a9686b86-7811-48f3-ac1e-a694c0251619</webElementGuid>
+      <webElementGuid>09313f3a-320d-46e5-8c15-8f239061dd4a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>name</name>
       <type>Main</type>
       <value>soDienThoai</value>
-      <webElementGuid>fcdcc0d4-7290-48cc-a3f8-91cef104fab8</webElementGuid>
+      <webElementGuid>0cadacb2-e8c3-4a65-8c3b-53e53ddd7695</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Nhập số điện thoại</value>
-      <webElementGuid>73d63180-437a-45a9-aad8-25f0230133b5</webElementGuid>
+      <webElementGuid>a17585f6-1d7e-488c-bf0b-f80c0d65da75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>parent</name>
       <type>Main</type>
       <value>md5.v1-c1b08efb1d0b16ffb237444a9f028e4a</value>
-      <webElementGuid>84e0e2af-c2af-4e34-b0db-5d2879c7badc</webElementGuid>
+      <webElementGuid>cdf31245-9a67-498b-8a07-7bd98ad4f767</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>//*[@name = 'soDienThoai']</value>
-      <webElementGuid>e94f40b5-91c4-4b3b-877b-2987d54d2aa9</webElementGuid>
+      <webElementGuid>9da711ca-e15d-49fd-bfef-9fe3026a9752</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//*[@name = 'soDienThoai']</value>
-      <webElementGuid>8cea0c6d-d688-40bb-a1d1-a491c5131898</webElementGuid>
+      <webElementGuid>1f580a56-f32c-4c2d-a054-9f040c3e6a9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,6 +85,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'tel' and @name = 'soDienThoai' and @placeholder = 'Nhập số điện thoại']</value>
-      <webElementGuid>398c2c73-feea-42f1-8629-cf443d48a3d5</webElementGuid>
+      <webElementGuid>6d79e417-f329-446e-a928-a092085ed8d1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Qun l ti khon</name>
+   <name>input_Nhp mt khu</name>
    <tag></tag>
-   <elementGuidId>e9c0a761-904a-419c-aeff-7b1d5e8b3102</elementGuidId>
+   <elementGuidId>12bc437b-ed53-407d-8b21-20a40b305bbe</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>[href=&quot;http\:\/\/localhost\/BanThuoc\/public\/admin\/quanLyTaiKhoan&quot;]</value>
+         <value>[name=&quot;matKhau&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
+         <value>//*[@name = 'matKhau']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=link[name=&quot; Quản lý tài khoản&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nhập mật khẩu&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,72 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>a</value>
-      <webElementGuid>7def0606-0ffa-4bb5-aeb3-ec98be485c35</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>nav-item active</value>
-      <webElementGuid>7d4ce9e2-b714-4af2-a6a4-b30a4044b190</webElementGuid>
+      <value>input</value>
+      <webElementGuid>e7c80c87-410c-4a8c-9b6e-346a5028c425</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>href</name>
+      <name>type</name>
       <type>Main</type>
-      <value>http://localhost/BanThuoc/public/admin/quanLyTaiKhoan</value>
-      <webElementGuid>49ca6ac4-5622-41ea-b0e6-34ad3b69ac86</webElementGuid>
+      <value>password</value>
+      <webElementGuid>7600fc04-7cbf-4578-84c0-76d0db25657a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>name</name>
       <type>Main</type>
-      <value>
-            
-            Quản lý tài khoản
-        </value>
-      <webElementGuid>e171fd6a-9ed2-466e-a6ea-a573d2272694</webElementGuid>
+      <value>matKhau</value>
+      <webElementGuid>9dc33c08-8de0-436e-b27b-b56088174554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập mật khẩu</value>
+      <webElementGuid>f59db3bd-f984-4072-8805-78b2ad94e022</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-ea320befeb13e89272d2febcd748f3ef</value>
-      <webElementGuid>485cd28e-1c6d-4e30-992c-638b4105f648</webElementGuid>
+      <value>md5.v1-55c07a6b50af37089171e583b911d9ef</value>
+      <webElementGuid>a4bb4e31-8562-4387-b21c-4eb50ad13e53</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
-      <webElementGuid>74d93031-a21e-43da-89ba-db548f1f5728</webElementGuid>
+      <value>//*[@name = 'matKhau']</value>
+      <webElementGuid>ba0bba4d-f816-4828-9fdb-2d849268792e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan']</value>
-      <webElementGuid>0e704d27-8641-4c3a-a896-24b96b532e1b</webElementGuid>
+      <value>//*[@name = 'matKhau']</value>
+      <webElementGuid>c2c2064b-f5e1-4927-8575-77a24adcedab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'http://localhost/BanThuoc/public/admin/quanLyTaiKhoan' and (text() = '
-            
-            Quản lý tài khoản
-        ' or . = '
-            
-            Quản lý tài khoản
-        ')]</value>
-      <webElementGuid>7751a9e2-2b89-498b-bfb7-8049921d8adf</webElementGuid>
+      <value>//input[@type = 'password' and @name = 'matKhau' and @placeholder = 'Nhập mật khẩu']</value>
+      <webElementGuid>58965650-347b-448e-8445-5e7a1781c054</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

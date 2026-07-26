@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>td_Thuc mt tai mi hng</name>
+   <name>input_Nhp s in thoi</name>
    <tag></tag>
-   <elementGuidId>dba2a9cf-50ad-4d1b-8d98-177ddbfc3466</elementGuidId>
+   <elementGuidId>c64f1395-d783-4e9b-8f6e-487990541700</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>tr:nth-child(3) td.cell-strong:nth-child(3)</value>
+         <value>[name=&quot;soDienThoai&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[(name() = 'tr') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
+         <value>//*[@name = 'soDienThoai']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=cell[name=&quot;Thuốc mắt tai mũi họng&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Nhập số điện thoại&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,55 +28,63 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>td</value>
-      <webElementGuid>ab69470d-4cb3-42af-9b52-734e595cdabf</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>cell-strong</value>
-      <webElementGuid>7b11361e-e4ee-4e46-bdb0-7b396e065f6e</webElementGuid>
+      <value>input</value>
+      <webElementGuid>b0cce333-d5ed-4ace-bdcc-78ec8b6effad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>type</name>
       <type>Main</type>
-      <value>Thuốc mắt tai mũi họng</value>
-      <webElementGuid>4570369d-50c5-40ac-92fc-d4eb385e4729</webElementGuid>
+      <value>tel</value>
+      <webElementGuid>a5fc1a45-7522-4b63-8715-699512e5e1e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>soDienThoai</value>
+      <webElementGuid>2d47eded-67f7-41d0-8df3-22d03a3dcc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Nhập số điện thoại</value>
+      <webElementGuid>e5c70cb7-2e59-46ae-bf74-03fa6facfaba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-2d95458fcec369aa115a2db53126474f</value>
-      <webElementGuid>f88e8033-fea2-46cd-b328-6c7bd4fcbc83</webElementGuid>
+      <value>md5.v1-c1b08efb1d0b16ffb237444a9f028e4a</value>
+      <webElementGuid>7d4cd34d-339b-4ffc-a9dd-22856ccb9594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
-      <webElementGuid>ba6d2937-7396-486c-bf19-bf26b86bf363</webElementGuid>
+      <value>//*[@name = 'soDienThoai']</value>
+      <webElementGuid>79213bec-72d3-4ed3-9151-974c0730ace3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[(name() = 'tr') and (position() = 3)]//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' cell-strong ') and (name() = 'td') and (position() = 3)]</value>
-      <webElementGuid>3324d029-3446-48e4-8032-4de8046302fa</webElementGuid>
+      <value>//*[@name = 'soDienThoai']</value>
+      <webElementGuid>976e51a9-1d41-4cb4-9f2f-9fa6c916e272</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//td[(text() = 'Thuốc mắt tai mũi họng' or . = 'Thuốc mắt tai mũi họng')]</value>
-      <webElementGuid>056553dc-cf89-49e1-be02-d5eeb2034d47</webElementGuid>
+      <value>//input[@type = 'tel' and @name = 'soDienThoai' and @placeholder = 'Nhập số điện thoại']</value>
+      <webElementGuid>dd2cd6ed-42c7-4fec-a7f0-0616e13923b2</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

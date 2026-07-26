@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_ng nhp</name>
+   <name>input_f_soDienThoai</name>
    <tag></tag>
-   <elementGuidId>9579dd36-7b3a-4849-b5a5-6d5f9fb93980</elementGuidId>
+   <elementGuidId>ad02c719-4dfa-4d6a-9691-85962007af64</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>.btn</value>
+         <value>#f_soDienThoai</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
+         <value>//*[@id = 'f_soDienThoai']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:role=button[name=&quot;Đăng nhập&quot;i]</value>
+         <value>#f_soDienThoai</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,63 +28,55 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>e4a80646-315a-436d-8825-13bf925eb997</webElementGuid>
+      <value>input</value>
+      <webElementGuid>365bb800-5789-4f74-b6a2-e854885a4a59</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>428963b0-e817-4be2-9694-b9b32bf0c54b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>btn btn-primary</value>
-      <webElementGuid>32d54eaf-9281-46a8-b8dd-a40035e30454</webElementGuid>
+      <value>text</value>
+      <webElementGuid>581963e9-b326-4045-8b0a-1b6271385dfa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>text</name>
+      <name>id</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>a581a77d-e4eb-49c3-bc89-e22bac51af04</webElementGuid>
+      <value>f_soDienThoai</value>
+      <webElementGuid>8350f7be-b77f-4443-b85a-d6a3a7aef130</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>parent</name>
       <type>Main</type>
-      <value>md5.v1-5889e8f4ab8798d244ecbbc51aa6e324</value>
-      <webElementGuid>74077ffc-e177-4e18-af79-42de687a428e</webElementGuid>
+      <value>md5.v1-3e2c267d79711f70714f885ecb175aff</value>
+      <webElementGuid>43600c6f-13fe-4705-b050-e710e661ed91</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>0f79b92d-6a0f-42ad-978a-5b3b4f16127f</webElementGuid>
+      <value>//*[@id = 'f_soDienThoai']</value>
+      <webElementGuid>984332a5-69ed-4197-bb02-912e9d807e49</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' btn ')]</value>
-      <webElementGuid>5e09886c-4e3b-4682-88e4-db83b17590fa</webElementGuid>
+      <value>//*[@id = 'f_soDienThoai']</value>
+      <webElementGuid>09869cb0-6b40-4d5f-a4fd-5bab804f0e21</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>3c215c7c-5d89-46da-9c2b-c33887d95866</webElementGuid>
+      <value>//input[@type = 'text' and @id = 'f_soDienThoai']</value>
+      <webElementGuid>19f66630-e359-4b77-8a16-5f88e115978d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
