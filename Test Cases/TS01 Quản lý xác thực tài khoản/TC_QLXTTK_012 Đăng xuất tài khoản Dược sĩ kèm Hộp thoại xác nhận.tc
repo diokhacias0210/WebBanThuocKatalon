@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_QLXTTK_012 Đăng xuất tài khoản Quản trị viên (Admin) từ Trang quản trị</name>
+   <name>TC_QLXTTK_012 Đăng xuất tài khoản Dược sĩ kèm Hộp thoại xác nhận</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>5e4d8bd3-ebbc-4259-b3ec-823c927456ff</testCaseGuid>
+   <testCaseGuid>0288f363-223e-4a68-a79b-32e962586a1d</testCaseGuid>
 </TestCaseEntity>

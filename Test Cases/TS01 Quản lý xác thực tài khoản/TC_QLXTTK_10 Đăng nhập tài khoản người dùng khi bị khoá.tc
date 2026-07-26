@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC_LOGOUT_01 Đăng xuất tài khoản Khách hàng thành công từ Navbar</name>
+   <name>TC_QLXTTK_10 Đăng nhập tài khoản người dùng khi bị khoá</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>f7e35bf6-a68b-4894-94e9-dddaa2268924</testCaseGuid>
+   <testCaseGuid>012a3ed3-9abf-4fc7-a373-341666c13905</testCaseGuid>
 </TestCaseEntity>
