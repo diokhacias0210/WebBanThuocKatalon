@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLXTTK_09 Đăng nhập thất bại do để trống các trường bắt buộc trong trang đăng nhập</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a40ca853-50e1-4ae9-918e-68f50d80eab2</testCaseGuid>
+</TestCaseEntity>

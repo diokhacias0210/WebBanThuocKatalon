@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_09 Bỏ chọn checkbox Chọn mua tất cả trong giỏ hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>141ade5e-f56d-4a8b-85ce-1588d50dc2aa</testCaseGuid>
+</TestCaseEntity>

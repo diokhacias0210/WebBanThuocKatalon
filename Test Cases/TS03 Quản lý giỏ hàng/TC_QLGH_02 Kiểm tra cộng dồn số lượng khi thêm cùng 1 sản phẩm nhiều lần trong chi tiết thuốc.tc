@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_02 Kiểm tra cộng dồn số lượng khi thêm cùng 1 sản phẩm nhiều lần trong chi tiết thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bfc9e739-4451-493a-8b64-c8d0d89aac4b</testCaseGuid>
+</TestCaseEntity>

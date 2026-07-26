@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_21 Thêm mới danh mục thành công với đầy đủ thông tin hợp lệ trong trang Quản lý danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9f0e4dde-d899-4328-b3bd-c76b1cab5979</testCaseGuid>
+</TestCaseEntity>

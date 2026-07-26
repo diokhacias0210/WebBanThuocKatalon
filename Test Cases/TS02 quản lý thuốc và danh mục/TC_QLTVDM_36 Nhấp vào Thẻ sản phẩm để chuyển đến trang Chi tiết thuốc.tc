@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_36 Nhấp vào Thẻ sản phẩm để chuyển đến trang Chi tiết thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>10a6582b-abc6-4d7e-8d3e-0c7df2bcceb6</testCaseGuid>
+</TestCaseEntity>

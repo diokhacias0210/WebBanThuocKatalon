@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_34 Tăng số lượng mua bằng cách nhấn nút Cộng trang chi tiết</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6eb4b7e7-1d66-4d9b-8c8c-62fd96455927</testCaseGuid>
+</TestCaseEntity>

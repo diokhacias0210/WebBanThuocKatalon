@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_07 Lọc danh sách thuốc theo Danh mục thuốc trang danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>efdd4a72-9388-4fb2-9e5b-0c606fb26896</testCaseGuid>
+</TestCaseEntity>

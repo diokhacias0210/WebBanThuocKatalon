@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_15 Cập nhật thông tin thuốc thành công trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b817f1ec-1fc6-4942-b4d6-24d866b29253</testCaseGuid>
+</TestCaseEntity>

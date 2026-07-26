@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_16 Ràng buộc không cho tăng số lượng vượt quá Giới hạn mua tối đa trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4dea839b-79ee-4796-bcbe-58e7bda299f3</testCaseGuid>
+</TestCaseEntity>

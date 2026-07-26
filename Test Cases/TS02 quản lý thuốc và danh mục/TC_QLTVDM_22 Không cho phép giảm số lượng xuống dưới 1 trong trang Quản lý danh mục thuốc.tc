@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_22 Không cho phép giảm số lượng xuống dưới 1 trong trang Quản lý danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b0a9ab8d-bbb2-464d-b849-e24d6c4d03e4</testCaseGuid>
+</TestCaseEntity>

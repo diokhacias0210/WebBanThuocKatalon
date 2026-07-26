@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_32 Lọc sản phẩm theo Nút lọc nhanh 50k - 200k trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7be4e088-de58-4ed6-8b0e-bcb2be580de2</testCaseGuid>
+</TestCaseEntity>

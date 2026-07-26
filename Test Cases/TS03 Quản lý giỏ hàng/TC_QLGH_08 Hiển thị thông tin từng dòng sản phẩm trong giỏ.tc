@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_08 Hiển thị thông tin từng dòng sản phẩm trong giỏ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>528708eb-bd88-41b1-be31-89f19bb5a99a</testCaseGuid>
+</TestCaseEntity>

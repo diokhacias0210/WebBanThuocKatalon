@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_15 Chức năng nút Tiếp tục mua hàng trong giỏ hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cc0f654c-b91a-4202-bd85-36bf8fd30b82</testCaseGuid>
+</TestCaseEntity>

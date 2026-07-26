@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_38 Hiển thị Giới hạn mua tối đa trên mỗi đơn hàng trang chi tiết</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>683aa748-fc7d-4596-9ad8-b7cf9a48c392</testCaseGuid>
+</TestCaseEntity>

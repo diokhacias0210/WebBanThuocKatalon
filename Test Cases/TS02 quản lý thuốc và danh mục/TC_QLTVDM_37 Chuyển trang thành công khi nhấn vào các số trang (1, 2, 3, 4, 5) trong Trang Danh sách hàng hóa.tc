@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_37 Chuyển trang thành công khi nhấn vào các số trang (1, 2, 3, 4, 5) trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2abcb10c-cdd5-45b3-97d9-ad5655169e59</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_19 Nút Đặt lại khôi phục danh sách danh mục về ban đầu trang Quản lý danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2b7ee71d-d39a-46e2-8779-3468038ce800</testCaseGuid>
+</TestCaseEntity>

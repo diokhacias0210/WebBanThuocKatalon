@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_03 Điều hướng khi nhấp chọn mục Giỏ hàng trong TDH</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>30ac07dc-6ed5-4ccd-8280-7d20976b94a0</testCaseGuid>
+</TestCaseEntity>

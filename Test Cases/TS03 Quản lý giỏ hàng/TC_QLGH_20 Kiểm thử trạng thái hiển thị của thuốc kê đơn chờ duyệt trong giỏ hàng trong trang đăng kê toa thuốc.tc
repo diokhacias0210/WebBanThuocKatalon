@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_20 Kiểm thử trạng thái hiển thị của thuốc kê đơn chờ duyệt trong giỏ hàng trong trang đăng kê toa thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aaf2e52a-4b0e-4717-8f48-c7381dfdc5b0</testCaseGuid>
+</TestCaseEntity>

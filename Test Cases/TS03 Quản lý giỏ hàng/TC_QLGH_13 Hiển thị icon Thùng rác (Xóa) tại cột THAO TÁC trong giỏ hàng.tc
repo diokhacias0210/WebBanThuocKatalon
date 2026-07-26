@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_13 Hiển thị icon Thùng rác (Xóa) tại cột THAO TÁC trong giỏ hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32c0e74d-2b3e-4759-b2b4-4fd28be66451</testCaseGuid>
+</TestCaseEntity>

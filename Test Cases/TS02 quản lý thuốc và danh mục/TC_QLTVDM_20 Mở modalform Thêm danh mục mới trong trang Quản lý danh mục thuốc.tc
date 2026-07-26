@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_20 Mở modalform Thêm danh mục mới trong trang Quản lý danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3828a9b3-7792-4589-bb34-de8c4513db9c</testCaseGuid>
+</TestCaseEntity>

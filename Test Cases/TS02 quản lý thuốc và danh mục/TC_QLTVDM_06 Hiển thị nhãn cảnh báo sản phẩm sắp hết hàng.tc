@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_06 Hiển thị nhãn cảnh báo sản phẩm sắp hết hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f99e5f5e-6ad3-4ad8-9f7c-8bcc0319dd22</testCaseGuid>
+</TestCaseEntity>

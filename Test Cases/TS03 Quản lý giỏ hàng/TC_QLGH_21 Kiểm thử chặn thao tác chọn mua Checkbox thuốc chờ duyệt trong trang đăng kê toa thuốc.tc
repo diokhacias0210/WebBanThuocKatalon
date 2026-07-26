@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_21 Kiểm thử chặn thao tác chọn mua Checkbox thuốc chờ duyệt trong trang đăng kê toa thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a9b3fd86-2236-4cc4-a791-223d00df0616</testCaseGuid>
+</TestCaseEntity>

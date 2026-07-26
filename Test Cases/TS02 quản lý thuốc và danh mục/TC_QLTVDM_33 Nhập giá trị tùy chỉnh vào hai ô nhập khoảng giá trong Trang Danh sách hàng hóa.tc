@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_33 Nhập giá trị tùy chỉnh vào hai ô nhập khoảng giá trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d5cfd353-8f87-407f-987f-c90d10067f4e</testCaseGuid>
+</TestCaseEntity>

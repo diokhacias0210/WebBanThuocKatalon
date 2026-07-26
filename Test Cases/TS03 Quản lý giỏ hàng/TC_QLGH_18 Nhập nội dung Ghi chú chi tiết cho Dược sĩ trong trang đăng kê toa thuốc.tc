@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_18 Nhập nội dung Ghi chú chi tiết cho Dược sĩ trong trang đăng kê toa thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>79ce66f8-2e02-4b25-aaaf-a5d55ac00101</testCaseGuid>
+</TestCaseEntity>

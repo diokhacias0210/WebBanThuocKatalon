@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_19 Để trống ô Ghi chú cho Dược sĩ khi gửi đơn thuốc trong trang đăng kê toa thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0edc63c7-0761-41b7-ba3e-0ebf2b626f08</testCaseGuid>
+</TestCaseEntity>

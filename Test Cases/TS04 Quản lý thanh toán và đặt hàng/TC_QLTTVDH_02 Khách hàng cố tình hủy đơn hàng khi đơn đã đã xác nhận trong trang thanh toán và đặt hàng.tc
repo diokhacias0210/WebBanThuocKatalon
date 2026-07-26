@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTTVDH_02 Khách hàng cố tình hủy đơn hàng khi đơn đã đã xác nhận trong trang thanh toán và đặt hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1fe62eb6-2a4d-4779-970b-b4cb98484eea</testCaseGuid>
+</TestCaseEntity>

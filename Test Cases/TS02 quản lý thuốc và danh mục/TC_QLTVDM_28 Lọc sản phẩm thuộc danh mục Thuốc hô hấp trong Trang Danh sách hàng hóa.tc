@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_28 Lọc sản phẩm thuộc danh mục Thuốc hô hấp trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5925634c-196c-4ea3-b8f2-0adfe81ce9dd</testCaseGuid>
+</TestCaseEntity>

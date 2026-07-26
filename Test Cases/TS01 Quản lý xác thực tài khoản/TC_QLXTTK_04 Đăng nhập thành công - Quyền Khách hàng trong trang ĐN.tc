@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLXTTK_04 Đăng nhập thành công - Quyền Khách hàng trong trang ĐN</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1345ebdd-feaa-4833-becb-62f1a0890a90</testCaseGuid>
+</TestCaseEntity>

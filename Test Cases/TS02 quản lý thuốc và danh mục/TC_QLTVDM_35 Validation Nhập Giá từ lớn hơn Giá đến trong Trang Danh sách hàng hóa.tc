@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_35 Validation Nhập Giá từ lớn hơn Giá đến trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4dd15b14-3631-405f-a00f-4fc2130b0698</testCaseGuid>
+</TestCaseEntity>

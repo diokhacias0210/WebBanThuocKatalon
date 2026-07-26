@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_08 Lọc danh sách thuốc theo Phân loại Kê đơn Không kê đơn trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>949c45bc-8409-4b8f-95dc-0f934e825f94</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_05 Điều hướng sang trang Danh sách sản phẩm khi nhấn Xem tất cả ở trng chủ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3be9b9ab-87ea-4860-98a4-5c228a016452</testCaseGuid>
+</TestCaseEntity>

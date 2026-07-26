@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_16 Kiểm thử tính năng Chọn mua tất cả khi giỏ hàng có thuốc chờ duyệt trong trang đăng kê toa thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c01c4d85-170c-45d6-a258-64eda9b11361</testCaseGuid>
+</TestCaseEntity>

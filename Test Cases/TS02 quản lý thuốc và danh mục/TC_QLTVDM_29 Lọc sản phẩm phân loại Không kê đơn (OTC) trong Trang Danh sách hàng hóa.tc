@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_29 Lọc sản phẩm phân loại Không kê đơn (OTC) trong Trang Danh sách hàng hóa</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7f69d7b6-6fb4-4d71-b9a0-5ab29364a202</testCaseGuid>
+</TestCaseEntity>

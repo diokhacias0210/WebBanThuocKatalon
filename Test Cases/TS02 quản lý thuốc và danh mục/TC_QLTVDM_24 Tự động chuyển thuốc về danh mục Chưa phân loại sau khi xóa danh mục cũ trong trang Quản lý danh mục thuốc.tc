@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_24 Tự động chuyển thuốc về danh mục Chưa phân loại sau khi xóa danh mục cũ trong trang Quản lý danh mục thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>049f362b-b37d-488f-b8e3-3e8edbe7bf78</testCaseGuid>
+</TestCaseEntity>

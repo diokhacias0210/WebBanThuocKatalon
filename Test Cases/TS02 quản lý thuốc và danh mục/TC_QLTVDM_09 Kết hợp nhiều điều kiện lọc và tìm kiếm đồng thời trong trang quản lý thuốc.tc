@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_09 Kết hợp nhiều điều kiện lọc và tìm kiếm đồng thời trong trang quản lý thuốc</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ce1a94d9-00fd-4b5d-b055-6c1f74215517</testCaseGuid>
+</TestCaseEntity>

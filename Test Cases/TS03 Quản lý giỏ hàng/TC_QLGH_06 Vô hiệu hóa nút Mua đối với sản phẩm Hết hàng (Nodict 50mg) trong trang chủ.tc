@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLGH_06 Vô hiệu hóa nút Mua đối với sản phẩm Hết hàng (Nodict 50mg) trong trang chủ</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>69d8c85e-9693-4f57-b4af-df3be9364df6</testCaseGuid>
+</TestCaseEntity>

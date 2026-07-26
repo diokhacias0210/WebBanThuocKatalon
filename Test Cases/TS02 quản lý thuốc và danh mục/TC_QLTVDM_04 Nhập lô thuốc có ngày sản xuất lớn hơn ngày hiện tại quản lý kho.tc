@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLTVDM_04 Nhập lô thuốc có ngày sản xuất lớn hơn ngày hiện tại quản lý kho</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>40857149-db38-4fbc-86c9-5c8347c38ffb</testCaseGuid>
+</TestCaseEntity>
