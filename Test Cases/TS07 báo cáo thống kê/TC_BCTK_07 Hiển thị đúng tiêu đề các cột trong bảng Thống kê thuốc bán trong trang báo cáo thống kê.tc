@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BCTK_07 Hiển thị đúng tiêu đề các cột trong bảng Thống kê thuốc bán trong trang báo cáo thống kê</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b86d6abe-af54-4895-9e70-52a2ab62effe</testCaseGuid>
+</TestCaseEntity>

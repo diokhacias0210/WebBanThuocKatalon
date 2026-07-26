@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_BCTK_04 Khoảng thời gian lọc mặc định khi mới vào trang trong trang báo cáo thống kê</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5e84c6af-d4f9-4deb-ba9f-c2529c7f7022</testCaseGuid>
+</TestCaseEntity>
