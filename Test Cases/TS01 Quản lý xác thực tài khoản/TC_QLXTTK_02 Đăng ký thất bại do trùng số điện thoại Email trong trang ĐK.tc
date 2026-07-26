@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>C_QLXTTK_02 Đăng ký thất bại do trùng số điện thoại Email trong trang ĐK</name>
+   <name>TC_QLXTTK_02 Đăng ký thất bại do trùng số điện thoại Email trong trang ĐK</name>
    <tag></tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
