@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_02 Lọc danh sách theo Tab Chờ xác nhận trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>1a7895c8-f193-48a4-9711-2fe465b513da</testCaseGuid>
-</TestCaseEntity>

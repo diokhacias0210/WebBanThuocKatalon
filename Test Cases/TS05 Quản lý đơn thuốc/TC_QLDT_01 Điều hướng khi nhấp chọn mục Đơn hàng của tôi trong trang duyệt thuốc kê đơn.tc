@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_01 Điều hướng khi nhấp chọn mục Đơn hàng của tôi trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>f9948dbf-53ae-4914-8cdc-aa37b1fe3f52</testCaseGuid>
-</TestCaseEntity>

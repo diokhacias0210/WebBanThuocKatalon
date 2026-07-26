@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC_QLDT_18 Duyệt tất cả các yêu cầu chờ (Duyệt nhanh) trong trang duyệt thuốc kê đơn</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b6058033-99b7-4332-a54d-82064f6be87b</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_QLDT_1 Tìm kiếm đơn hàng đóng gói theo Mã đơn hàng trong trang duyệt thuốc kê đơn</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8757eccd-1cee-4824-b0ff-2c25225cacc3</testCaseGuid>
+</TestCaseEntity>
